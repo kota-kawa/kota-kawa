@@ -5,7 +5,7 @@ Web / Software Engineer (seeking <role>) — I build <one-line value proposition
 
 ## 🔗 Links
 - Resume: <URL> (JP / EN)
-- Portfolio: <URL>
+- Portfolio: <https://project-kk.com/>
 - LinkedIn: <URL>
 - Email: <you@example.com>
 
@@ -16,15 +16,16 @@ Web / Software Engineer (seeking <role>) — I build <one-line value proposition
 3) **<Project C>** — ...
 
 ## 🧰 Tech (what I can ship with)
-- Frontend: <React/Next/Vue...> (strength: <perf/a11y/design systems>)
-- Backend: <Node/Go/Python...> (strength: <API design/auth/queues>)
-- Infra: <Docker/K8s/CI/CD/Cloud...>
-- Quality: <Testing, linting, type checking, monitoring...>
+- **AI/Agents**: Multi-Agent Systems (LangGraph), RAG (LangChain/LlamaIndex, FAISS/pgvector), Browser Automation (`browser-use`), LLM Integration (OpenAI, Gemini, Groq).
+- **Backend**: Python (Flask, Django, FastAPI), Microservices Architecture.
+- **Frontend**: React (Vite), Jinja2 (SSR), CSS (BEM methodology).
+- **Infra & DB**: Docker (Compose), PostgreSQL, MySQL, Redis, `uv` (Package Management), IoT (Jetson/Raspberry Pi).
 
 ## 🧪 How I work (signals)
-- I write tests and automate checks (CI).
-- I document decisions (README / ADR) and keep repos reproducible.
-- I care about security updates (dependabot etc.).
+- **Agent-Centric Development**: I architect systems where specialized agents (Scheduler, Browser, IoT) collaborate to achieve complex goals.
+- **Privacy & Quality**: I build privacy-first RAG systems (PII masking, local-first) and ensure quality with `pytest`, `ruff`, and `black`.
+- **Modern Standards**: I adopt modern tooling like `uv` for efficient builds and maintain strict environment isolation in Docker.
+- **Documentation**: I maintain clear architectural documentation (`AGENTS.md`, `GEMINI.md`) and comprehensive READMEs for every service.
 
 ## 🗓️ Now
 - Currently: <what you are doing now>  
@@ -53,15 +54,16 @@ Web / ソフトウェアエンジニア（<role>志望）— <一行で価値提
 3) **<Project C>** — ...
 
 ## 🧰 技術（実装して出せる領域）
-- フロント：<React/Next/Vue...>（強み：<パフォーマンス/a11y/デザインシステム>）
-- バック：<Node/Go/Python...>（強み：<API設計/認証/キュー等>）
-- インフラ：<Docker/K8s/CI/CD/Cloud...>
-- 品質：<テスト、Lint、型、監視 など>
+- **AI/Agents**: マルチエージェントシステム (LangGraph), RAG (LangChain/LlamaIndex, FAISS/pgvector), ブラウザ自動化 (`browser-use`), LLM連携 (OpenAI, Gemini, Groq).
+- **Backend**: Python (Flask, Django, FastAPI), マイクロサービスアーキテクチャ.
+- **Frontend**: React (Vite), Jinja2 (SSR), CSS (BEM設計).
+- **Infra & DB**: Docker (Compose), PostgreSQL, MySQL, Redis, `uv` (パッケージ管理), IoT (Jetson/Raspberry Pi).
 
 ## 🧪 仕事の進め方（シグナル）
-- テストを書き、CIで自動チェックします。
-- README/ADRで意思決定を残し、再現可能な状態を保ちます。
-- 依存関係の更新など、セキュリティにも気を配ります（dependabot等）。
+- **エージェント中心の開発**: 専門化されたエージェント（Scheduler, Browser, IoT）が協調して複雑なゴールを達成するシステムを設計します。
+- **プライバシーと品質**: プライバシーを重視したRAGシステム（PIIマスキング、ローカルファースト）を構築し、`pytest`, `ruff`, `black` 等で品質を担保します。
+- **モダンな標準化**: `uv` による効率的なビルドや、Docker内での厳格な環境分離など、モダンなツールを採用しています。
+- **ドキュメント**: 各サービスに対して、明確なアーキテクチャドキュメント (`AGENTS.md`, `GEMINI.md`) と包括的なREADMEを維持・管理します。
 
 ## 🗓️ 近況
 - 現在：<今やっていること>  
