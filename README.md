@@ -1,73 +1,73 @@
-# Hi, I'm <Kota Kawagoe> 👋
-Web / Software Engineer (seeking <role>) — I build <one-line value proposition>.
-- Focus: <e.g., frontend performance, backend APIs, ML systems, etc.>
-- Location: <optional> | Languages: Japanese / English
+# Hi, I'm Kota Kawagoe 👋
+**AI Agent Researcher / Software Engineer** — Bridging the gap between **Art/Design (UI/UX)** and **Backend Logic**.
+
+As a university student, I specialize in building intuitive AI Agents that interact with the physical world and daily life. My background in Art & Design allows me to craft superior user experiences, while my technical expertise ensures robust system architecture.
+
+- **Focus**: LLM Agents, IoT Control, Edge AI, UI/UX Design.
+- **Location**: Japan | **Languages**: Japanese (Native) / English
 
 ## 🔗 Links
-- Resume: <URL> (JP / EN)
-- Portfolio: <https://project-kk.com/>
-- LinkedIn: <URL>
-- Email: <you@example.com>
+- **Portfolio**: [https://project-kk.com/](https://project-kk.com/)
+- **GitHub**: [https://github.com/kota-kawa](https://github.com/kota-kawa)
+- **LinkedIn**: <URL>
+- **Email**: <you@example.com>
 
-## ⭐ Highlights (start here)
-1) **<Project A>** — <what it does in one line>  
-   - Demo: <URL> | Repo: <URL> | Tech: <X, Y, Z> | Impact: <metric/result>
-2) **<Project B>** — ...
-3) **<Project C>** — ...
+## ⭐ Highlights
+1) **[IoT-Agent](https://github.com/kota-kawa/IoT-Agent)** — *Chat with your physical world.*
+   - **What it is**: An agent system that allows natural language control of IoT devices (robots, sensors, cameras).
+   - **Edge AI**: Runs local LLMs (e.g., `Llama-3.2-3B`, `Qwen3-1.7B` in GGUF format) on **Jetson Orin Nano** and **Raspberry Pi 4**. Also supports **Raspberry Pi Pico W**.
+   - **Tech**: Python, Node.js, Docker, Local LLMs (llama.cpp/GGUF), OpenAI/Gemini API.
 
-## 🧰 Tech (what I can ship with)
-- **AI/Agents**: Multi-Agent Systems (LangGraph), RAG (LangChain/LlamaIndex, FAISS/pgvector), Browser Automation (`browser-use`), LLM Integration (OpenAI, Gemini, Groq).
-- **Backend**: Python (Flask, Django, FastAPI), Microservices Architecture.
-- **Frontend**: React (Vite), Jinja2 (SSR), CSS (BEM methodology).
-- **Infra & DB**: Docker (Compose), PostgreSQL, MySQL, Redis, `uv` (Package Management), IoT (Jetson/Raspberry Pi).
+2) **[Scheduler-Agent](https://github.com/kota-kawa/Scheduler-Agent)** — *Smart schedule management via chat.*
+   - **What it is**: An intelligent assistant for managing schedules and memos with a timeline visualization.
+   - **Features**: Supports switching between multiple models (OpenAI, Gemini, Claude).
+   - **Tech**: Python (FastAPI/Uvicorn), React/Vite, PostgreSQL, Docker, `uv`.
 
-## 🧪 How I work (signals)
-- **Agent-Centric Development**: I architect systems where specialized agents (Scheduler, Browser, IoT) collaborate to achieve complex goals.
-- **Privacy & Quality**: I build privacy-first RAG systems (PII masking, local-first) and ensure quality with `pytest`, `ruff`, and `black`.
-- **Modern Standards**: I adopt modern tooling like `uv` for efficient builds and maintain strict environment isolation in Docker.
-- **Documentation**: I maintain clear architectural documentation (`AGENTS.md`, `GEMINI.md`) and comprehensive READMEs for every service.
+## 🧰 Tech Stack
+- **AI & LLM**:
+    - **Models**: Llama 3.2, Qwen 2.5 (GGUF/Local execution), OpenAI, Gemini, Claude.
+    - **Frameworks**: LangChain, LlamaIndex, `browser-use`.
+- **IoT & Hardware**:
+    - **Devices**: NVIDIA Jetson Orin Nano, Raspberry Pi 4, Raspberry Pi Pico W.
+    - **Protocols**: Serial/UART, HTTP, MQTT.
+- **Backend**: Python (FastAPI, Flask), PostgreSQL, Redis, Docker (Compose).
+- **Frontend**: React, Vite, UI/UX Design (Figma, Adobe Suite background).
+- **Tools**: `uv` (Python Package Manager), Git, Linux.
 
 ## 🗓️ Now
-- Currently: <what you are doing now>  
-- Looking for: <role + what you want to build>
+- **Researching**: Autonomous control of IoT swarms using lightweight Edge LLMs.
+- **Building**: Enhancing the multi-modal capabilities of IoT Agents.
 
-_Last updated: YYYY-MM-DD_
+_Last updated: 2026-01-19_
 
 <details>
-  <summary>日本語版（クリックで展開）</summary>
+  <summary>日本語版（Japanese Version）</summary>
 
-# こんにちは、<Your Name> です 👋
-Web / ソフトウェアエンジニア（<role>志望）— <一行で価値提案（何を作る人か）>。
-- 注力領域：<例：フロントのパフォーマンス、バックエンドAPI、MLシステム など>
-- 拠点：<任意> | 使用言語：日本語 / 英語
+# こんにちは、川越 康太 (Kota Kawagoe) です 👋
+**AI Agent Researcher / Software Engineer**
 
-## 🔗 リンク
-- Resume：<URL>（JP / EN）
-- Portfolio：<URL>
-- LinkedIn：<URL>
-- Email：<you@example.com>
+大学でLLMを用いたAIエージェントの研究をしています。
+**Art/Design** のバックグラウンドを持ち、優れた **UI/UX** と堅牢な **バックエンドロジック** の両方を兼ね備えたエージェント開発が得意です。
 
-## ⭐ 代表作（ここから見てください）
-1) **<Project A>** — <一行で何をするものか>  
-   - Demo：<URL> | Repo：<URL> | Tech：<X, Y, Z> | 成果：<指標/結果>
-2) **<Project B>** — ...
-3) **<Project C>** — ...
+## ⭐ 代表作
+1) **[IoT-Agent](https://github.com/kota-kawa/IoT-Agent)** — *言葉でモノを動かす*
+   - **概要**: 自然言語チャットでIoTデバイス（ロボット、センサー、カメラ）を操作・監視できるエージェントシステム。
+   - **Edge AI**: **Jetson Orin Nano** や **Raspberry Pi 4** 上で、`Llama-3.2-3B` や `Qwen3-1.7B` (GGUF) などのローカルLLMを稼働させ、推論を行っています。**Raspberry Pi Pico W** の制御も対応。
+   - **技術**: Python, Node.js, Docker, Local LLMs.
 
-## 🧰 技術（実装して出せる領域）
-- **AI/Agents**: マルチエージェントシステム (LangGraph), RAG (LangChain/LlamaIndex, FAISS/pgvector), ブラウザ自動化 (`browser-use`), LLM連携 (OpenAI, Gemini, Groq).
-- **Backend**: Python (Flask, Django, FastAPI), マイクロサービスアーキテクチャ.
-- **Frontend**: React (Vite), Jinja2 (SSR), CSS (BEM設計).
-- **Infra & DB**: Docker (Compose), PostgreSQL, MySQL, Redis, `uv` (パッケージ管理), IoT (Jetson/Raspberry Pi).
+2) **[Scheduler-Agent](https://github.com/kota-kawa/Scheduler-Agent)** — *チャットで予定管理*
+   - **概要**: チャットを通じて予定やメモを操作・可視化（タイムライン表示）できるエージェント。
+   - **特徴**: OpenAI, Gemini, Claude など、状況に応じて複数のLLMを切り替え可能。
+   - **技術**: Python (uv), React/Vite, PostgreSQL, Docker.
 
-## 🧪 仕事の進め方（シグナル）
-- **エージェント中心の開発**: 専門化されたエージェント（Scheduler, Browser, IoT）が協調して複雑なゴールを達成するシステムを設計します。
-- **プライバシーと品質**: プライバシーを重視したRAGシステム（PIIマスキング、ローカルファースト）を構築し、`pytest`, `ruff`, `black` 等で品質を担保します。
-- **モダンな標準化**: `uv` による効率的なビルドや、Docker内での厳格な環境分離など、モダンなツールを採用しています。
-- **ドキュメント**: 各サービスに対して、明確なアーキテクチャドキュメント (`AGENTS.md`, `GEMINI.md`) と包括的なREADMEを維持・管理します。
+## 🧰 技術スタック
+- **AI/LLM**: ローカルLLM (GGUF形式でのエッジ推論), RAG, Multi-Agent System.
+- **IoT**: Jetson Orin Nano, Raspberry Pi 4/Pico W.
+- **Backend**: Python, Microservices, DB設計 (PostgreSQL).
+- **Frontend**: React, UI/UX Design (Art領域の学習経験あり).
 
-## 🗓️ 近況
-- 現在：<今やっていること>  
-- 探しているもの：<志望職種 + 作りたいもの>
+## 🗓️ 現在
+- **研究**: エッジデバイス上の軽量LLMを用いたIoTデバイスの自律制御。
+- **開発**: IoT Agentのマルチモーダル対応強化。
 
-_最終更新：YYYY-MM-DD_
 </details>
