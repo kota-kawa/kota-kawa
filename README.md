@@ -12,7 +12,7 @@ As a university student, I specialize in building intuitive AI Agents that inter
 - **GitHub**: [https://github.com/kota-kawa](https://github.com/kota-kawa)
 - **Zenn**: [https://zenn.dev/kota_kawa](https://zenn.dev/kota_kawa)
 - **X (Twitter)**: [https://x.com/project_kk_ai](https://x.com/project_kk_ai)
-- **LinkedIn**: <URL>
+- **LinkedIn**: [https://www.linkedin.com/in/kota-kawagoe-0a22263a7/](https://www.linkedin.com/in/kota-kawagoe-0a22263a7/)
 - **Email**: [kota7kawagoe@gmail.com](mailto:kota7kawagoe@gmail.com)
 
 ## ⭐ Highlights
@@ -65,7 +65,7 @@ _Last updated: 2026-01-20_
 - **GitHub**: [https://github.com/kota-kawa](https://github.com/kota-kawa)
 - **Zenn**: [https://zenn.dev/kota_kawa](https://zenn.dev/kota_kawa)
 - **X (Twitter)**: [https://x.com/project_kk_ai](https://x.com/project_kk_ai)
-- **LinkedIn**: <URL>
+- **LinkedIn**: [https://www.linkedin.com/in/kota-kawagoe-0a22263a7/](https://www.linkedin.com/in/kota-kawagoe-0a22263a7/)
 - **Email**: [kota7kawagoe@gmail.com](mailto:kota7kawagoe@gmail.com)
 
 ## ⭐ 代表作
