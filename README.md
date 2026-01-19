@@ -43,7 +43,7 @@ _Last updated: 2026-01-19_
 <details>
   <summary>日本語版（Japanese Version）</summary>
 
-# こんにちは、川越 康太 (Kota Kawagoe) です 👋
+# こんにちは、川越 航太 (Kota Kawagoe) です 👋
 **AI Agent Researcher / Software Engineer**
 
 大学でLLMを用いたAIエージェントの研究をしています。
