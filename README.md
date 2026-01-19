@@ -11,7 +11,7 @@ As a university student, I specialize in building intuitive AI Agents that inter
 - **Portfolio**: [https://project-kk.com/](https://project-kk.com/)
 - **GitHub**: [https://github.com/kota-kawa](https://github.com/kota-kawa)
 - **LinkedIn**: <URL>
-- **Email**: <you@example.com>
+- **Email**: [kota7kawagoe@gmail.com](mailto:kota7kawagoe@gmail.com)
 
 ## ⭐ Highlights
 1) **[IoT-Agent](https://github.com/kota-kawa/IoT-Agent)** — *Chat with your physical world.*
@@ -46,7 +46,7 @@ As a university student, I specialize in building intuitive AI Agents that inter
 - **Researching**: Autonomous control of IoT swarms using lightweight Edge LLMs.
 - **Building**: Enhancing the multi-modal capabilities of IoT Agents.
 
-_Last updated: 2026-01-19_
+_Last updated: 2026-01-20_
 
 <details>
   <summary>日本語版（Japanese Version）</summary>
@@ -62,7 +62,7 @@ _Last updated: 2026-01-19_
 - **Portfolio**: [https://project-kk.com/](https://project-kk.com/)
 - **GitHub**: [https://github.com/kota-kawa](https://github.com/kota-kawa)
 - **LinkedIn**: <URL>
-- **Email**: <you@example.com>
+- **Email**: [kota7kawagoe@gmail.com](mailto:kota7kawagoe@gmail.com)
 
 ## ⭐ 代表作
 1) **[IoT-Agent](https://github.com/kota-kawa/IoT-Agent)** — *言葉でモノを動かす*
