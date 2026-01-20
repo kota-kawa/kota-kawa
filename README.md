@@ -6,10 +6,9 @@ As a university student, I specialize in building intuitive AI Agents that inter
 - **Focus**: LLM Agents, IoT Control, Edge AI, UI/UX Design.
 - **Location**: Japan | **Languages**: Japanese (Native) / English
 
-## 🔗 Links
-- **Resume**: [GitHub Repository](https://github.com/kota-kawa/resume)
+- **Resume**: [https://github.com/kota-kawa/resume](https://github.com/kota-kawa/resume)
 - **Portfolio**: [https://project-kk.com/](https://project-kk.com/)
-- **GitHub**: [https://github.com/kota-kawa](https://github.com/kota-kawa)
+- **Blog**: [https://blog.project-kk.com/](https://blog.project-kk.com/)
 - **Zenn**: [https://zenn.dev/kota_kawa](https://zenn.dev/kota_kawa)
 - **X (Twitter)**: [https://x.com/project_kk_ai](https://x.com/project_kk_ai)
 - **LinkedIn**: [https://www.linkedin.com/in/kota-kawagoe-0a22263a7/](https://www.linkedin.com/in/kota-kawagoe-0a22263a7/)
@@ -60,9 +59,9 @@ _Last updated: 2026-01-20_
 **Art/Design** のバックグラウンドを持ち、優れた **UI/UX** と堅牢な **バックエンドロジック** の両方を兼ね備えたエージェント開発が得意です。
 
 ## 🔗 リンク
-- **Resume**: [GitHub Repository](https://github.com/kota-kawa/resume)
+- **Resume**: [https://github.com/kota-kawa/resume](https://github.com/kota-kawa/resume)
 - **Portfolio**: [https://project-kk.com/](https://project-kk.com/)
-- **GitHub**: [https://github.com/kota-kawa](https://github.com/kota-kawa)
+- **Blog**: [https://blog.project-kk.com/](https://blog.project-kk.com/)
 - **Zenn**: [https://zenn.dev/kota_kawa](https://zenn.dev/kota_kawa)
 - **X (Twitter)**: [https://x.com/project_kk_ai](https://x.com/project_kk_ai)
 - **LinkedIn**: [https://www.linkedin.com/in/kota-kawagoe-0a22263a7/](https://www.linkedin.com/in/kota-kawagoe-0a22263a7/)
