@@ -6,6 +6,7 @@ As a university student, I specialize in building intuitive AI Agents that inter
 - **Focus**: LLM Agents, IoT Control, Edge AI, UI/UX Design.
 - **Location**: Japan | **Languages**: Japanese (Native) / English
 
+## 🔗 Links
 - **Resume**: [https://github.com/kota-kawa/resume](https://github.com/kota-kawa/resume)
 - **Portfolio**: [https://project-kk.com/](https://project-kk.com/)
 - **Blog**: [https://blog.project-kk.com/](https://blog.project-kk.com/)
