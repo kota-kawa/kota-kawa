@@ -70,16 +70,12 @@ _Last updated: 2026-01-20_
 
 ## ⭐ 代表作
 1) **[IoT-Agent](https://github.com/kota-kawa/IoT-Agent)** — *言葉でモノを動かす*
-   - **概要**: 自然言語チャットでIoTデバイス（ロボット、センサー、カメラ）を操作・監視できるエージェントシステム。
-   - **Edge AI**: **Jetson Orin Nano** や **Raspberry Pi 4** 上で、`Llama-3.2-3B` や `Qwen3-1.7B` (GGUF) などのローカルLLMを稼働させ、推論を行っています。**Raspberry Pi Pico W** の制御も対応。
-   - **技術的挑戦**: GGUF量子化の活用とコンテキスト管理の効率化により、限られたVRAMリソースのエッジデバイス上での実用的な推論速度を実現しました。
-   - **技術**: Python, Node.js, Docker, Local LLMs.
+   - **概要**: 自然言語でIoTデバイスを操作・監視できるエージェントシステム。エッジデバイス上でのローカルLLM推論に対応。
+   - **使用技術**: Python, Node.js, Docker, Local LLMs (Jetson, Raspberry Pi).
 
 2) **[Scheduler-Agent](https://github.com/kota-kawa/Scheduler-Agent)** — *チャットで予定管理*
-   - **概要**: チャットを通じて予定やメモを操作・可視化（タイムライン表示）できるエージェント。
-   - **特徴**: OpenAI, Gemini, Claude など、状況に応じて複数のLLMを切り替え可能。
-   - **技術的挑戦**: 異なるLLMモデル間でも会話状態とFunction Callingの整合性を保ちながらシームレスに切り替えられる、モデル非依存なアーキテクチャを設計しました。
-   - **技術**: Python (uv), React/Vite, PostgreSQL, Docker.
+   - **概要**: チャットを通じて予定やメモを操作・可視化できるエージェント。複数LLMの切り替えに対応。
+   - **使用技術**: Python (uv), React, PostgreSQL, Docker.
 
 ## 🎓 学歴
 - **神奈川工科大学**
