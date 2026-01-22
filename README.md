@@ -6,6 +6,19 @@ As a university student, I specialize in building intuitive AI Agents that inter
 - **Focus**: LLM Agents, IoT Control, Edge AI, UI/UX Design.
 - **Location**: Japan | **Languages**: Japanese (Native) / English
 
+## 🚀 Core Competence
+**"Bridging Web and Physical Spaces: Unrivaled expertise in heterogeneous agent integration among students in Japan."**
+
+In my graduation research, I designed and implemented a **Multi-Agent Orchestration System** that integrates diverse autonomous agents. I developed and evaluated agents across five distinct domains:
+
+- **Knowledge (RAG)**: Expert knowledge retrieval using LLMs.
+- **Web Interaction (Browser Use)**: Autonomous browser control for dynamic information processing.
+- **Physical World (IoT)**: Control of real-world sensors/actuators via Raspberry Pi/Jetson.
+- **Logical Execution (Scheduler)**: Management of time constraints and task dependencies.
+- **Orchestration**: A central "brain" that optimally decomposes and distributes user instructions.
+
+My strength lies in the **architecture and implementation** capability to not just build these components individually, but to integrate them into a single, functioning system that connects the digital and physical worlds.
+
 ## 🔗 Links
 - **Resume**: [https://github.com/kota-kawa/resume](https://github.com/kota-kawa/resume)
 - **Portfolio**: [https://project-kk.com/](https://project-kk.com/)
@@ -54,6 +67,20 @@ _Last updated: 2026-01-20_
 
 大学でLLMを用いたAIエージェントの研究をしています。
 **Art/Design** のバックグラウンドを持ち、優れた **UI/UX** と堅牢な **バックエンドロジック** の両方を兼ね備えたエージェント開発が得意です。
+
+### 🚀 強み / 実績
+**「Web空間から物理空間まで。異種のエージェント統合システムの設計・実装において、学生・若手エンジニアの中で日本一の経験値を持つ自負があります」**
+
+卒業研究において、性質の異なる複数の自律型エージェントを高度に連携させる「マルチエージェント・オーケストレーションシステム」を完遂させました。
+以下の5つの領域をゼロから開発・統合し、実機評価までを行っています。
+
+*   **知識駆動型 (RAG)**: 大規模言語モデルを用いた高度な専門知識検索エージェント
+*   **Web操作型 (Browser Use)**: ブラウザを自律操作し、情報を収集・処理するエージェント
+*   **物理空間連携 (IoT)**: Raspberry Pi / Jetsonを介し、実世界のセンサー・アクチュエータを制御するエージェント
+*   **論理実行型 (Scheduler)**: 時間制約やタスク依存関係を解釈し、スケジュールを操作するエージェント
+*   **統合制御 (Orchestrator)**: ユーザーの指示を各エージェントへ最適に分解・配分する「脳」
+
+Web完結だけでなく、ハードウェアを含めた実世界へのフィードバックまでを一つのシステムとして統合・評価した経験は、国内でも稀有な実績です。
 
 ## 🔗 リンク
 - **Resume**: [https://github.com/kota-kawa/resume](https://github.com/kota-kawa/resume)
