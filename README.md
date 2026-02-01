@@ -3,6 +3,8 @@
 
 As a university student, I specialize in building intuitive AI Agents that interact with the physical world and daily life. My background in Art & Design allows me to craft superior user experiences, while my technical expertise ensures robust system architecture.
 
+**Vision**: I aim to implement AI agents in society to foster a world where human communication flourishes. By delegating daily tasks to AI, I want to create a society where people can truly focus on meaningful, face-to-face interactions.
+
 - **Focus**: LLM Agents, IoT Control, Edge AI, UI/UX Design.
 - **Location**: Japan | **Languages**: Japanese (Native) / English
 
@@ -59,6 +61,8 @@ _Last updated: 2026-01-22_
 
 大学でLLMを用いたAIエージェントの研究をしています。
 **Art/Design** のバックグラウンドを持ち、優れた **UI/UX** と堅牢な **バックエンドロジック** の両方を兼ね備えたエージェント開発が得意です。
+
+**Vision**: AIエージェントの社会実装を通じて、人同士のコミュニケーションがより促進される豊かな社会の実現を目指しています。「日常のタスクをAIに委ね、人が対面でのコミュニケーションに集中できる社会」を作ることが私の目標です。
 
 ### 🚀 強み / 実績
 **「Web空間から物理空間まで。異種のエージェント統合システムの設計・実装において、学生・若手エンジニアの中で日本一の経験値を持つ自負があります」**
