@@ -47,10 +47,10 @@ Developed a **Multi-Agent Orchestration System** for my graduation research, int
 - **Tools**: Git, `uv`, WordPress, Unity.
 
 ## 🗓️ Now
-- **Researching**: Autonomous control of IoT swarms using lightweight Edge LLMs.
-- **Building**: Enhancing the multi-modal capabilities of IoT Agents.
+- **Interning**: Identifying customer support requirements and developing a RAG-based chat system to address them.
+- **Building**: Improving the reliability and stability of AI agent execution in production environments.
 
-_Last updated: 2026-01-22_
+_Last updated: 2026-02-22_
 
 <details>
   <summary>日本語版（Japanese Version）</summary>
@@ -101,7 +101,7 @@ _Last updated: 2026-01-22_
 - **ツール**: Git, `uv`, WordPress, Unity.
 
 ## 🗓️ 現在
-- **研究**: エッジデバイス上の軽量LLMを用いたIoTデバイスの自律制御。
-- **開発**: IoT Agentのマルチモーダル対応強化。
+- **インターン**: カスタマーサポートに求められる要件を把握し、RAGチャットシステムの設計・開発に従事。
+- **開発**: 本番環境でのAIエージェントの安定稼働・信頼性向上に取り組んでいる。
 
 </details>
