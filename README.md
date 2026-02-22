@@ -34,17 +34,17 @@ Developed a **Multi-Agent Orchestration System** for my graduation research, int
 - **Kanagawa Institute of Technology** (KAIT)
     - Faculty of Information Technology
     - Department of Information Network and Communication
+- **University of North Alabama** — Exchange Program Completed
+    - Alabama, USA | June 2023 – May 2024
 
 ## 🧰 Tech Stack
-- **AI & LLM**:
-    - **Models**: Llama 3.2, Qwen 2.5 (GGUF/Local execution), OpenAI, Gemini, Claude.
-    - **Frameworks**: LangChain, LlamaIndex, `browser-use`.
-- **IoT & Hardware**:
-    - **Devices**: NVIDIA Jetson Orin Nano, Raspberry Pi 4, Raspberry Pi Pico W.
-    - **Protocols**: Serial/UART, HTTP, MQTT.
-- **Backend**: Python (FastAPI, Flask), PostgreSQL, Redis, Docker (Compose).
-- **Frontend**: React, Vite, UI/UX Design (Figma, Adobe Suite background).
-- **Tools**: `uv` (Python Package Manager), Git, Linux.
+- **AI & LLM**: LangChain, LangGraph, `browser-use`, Local LLMs (GGUF/Edge), RAG, Multi-Agent Systems, Hugging Face, TensorFlow, PyTorch, OpenCV.
+- **Backend**: Python (FastAPI, Flask, Django), TypeScript, C, C#.
+- **Database**: PostgreSQL (pgvector), MySQL, Redis, TinyDB.
+- **Frontend**: React, Next.js, Tailwind CSS, TypeScript, Figma.
+- **IoT & Hardware**: NVIDIA Jetson Orin Nano, Raspberry Pi 4/Pico W. Protocols: UART, HTTP, MQTT.
+- **Infrastructure**: Docker, Nginx, AWS (EC2, S3, VPC, RDS, ELB), Ubuntu, Raspbian, Jetson Linux.
+- **Tools**: Git, `uv`, WordPress, Unity.
 
 ## 🗓️ Now
 - **Researching**: Autonomous control of IoT swarms using lightweight Edge LLMs.
@@ -88,12 +88,17 @@ _Last updated: 2026-01-22_
 ## 🎓 学歴
 - **神奈川工科大学**
     - 情報学部 情報ネットワーク・コミュニケーション学科
+- **University of North Alabama** — 交換留学プログラム修了
+    - アラバマ州, 米国 | 2023年6月 – 2024年5月
 
 ## 🧰 技術スタック
-- **AI/LLM**: ローカルLLM (GGUF形式でのエッジ推論), RAG, Multi-Agent System.
-- **IoT**: Jetson Orin Nano, Raspberry Pi 4/Pico W.
-- **Backend**: Python, Microservices, DB設計 (PostgreSQL).
-- **Frontend**: React, UI/UX Design (Art領域の学習経験あり).
+- **AI/LLM**: LangChain, LangGraph, `browser-use`, ローカルLLM (GGUFエッジ推論), RAG, マルチエージェント, Hugging Face, TensorFlow, PyTorch, OpenCV.
+- **バックエンド**: Python (FastAPI, Flask, Django), TypeScript, C, C#.
+- **データベース**: PostgreSQL (pgvector), MySQL, Redis, TinyDB.
+- **フロントエンド**: React, Next.js, Tailwind CSS, TypeScript, Figma.
+- **IoT/ハードウェア**: Jetson Orin Nano, Raspberry Pi 4/Pico W. プロトコル: UART, HTTP, MQTT.
+- **インフラ**: Docker, Nginx, AWS (EC2, S3, VPC, RDS, ELB), Ubuntu, Raspbian, Jetson Linux.
+- **ツール**: Git, `uv`, WordPress, Unity.
 
 ## 🗓️ 現在
 - **研究**: エッジデバイス上の軽量LLMを用いたIoTデバイスの自律制御。
