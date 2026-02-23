@@ -1,3 +1,5 @@
+> 一番下に日本語版もあります
+
 # Hi, I'm Kota Kawagoe 👋
 **AI Agent Researcher / Software Engineer** — Bridging the gap between **Art/Design (UI/UX)** and **Backend Logic**.
 
