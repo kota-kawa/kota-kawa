@@ -7,7 +7,7 @@ As a university student, I specialize in building intuitive AI Agents that inter
 
 **Vision**: I aim to implement AI agents in society to foster a world where human communication flourishes. By delegating daily tasks to AI, I want to create a society where people can truly focus on meaningful, face-to-face interactions.
 
-- **Focus**: LLM Agents, IoT Control, Edge AI, UI/UX Design.
+- **Focus**: LLM Agents, Browser Agent, RAG, Edge AI, UI/UX Design.
 - **Location**: Japan | **Languages**: Japanese (Native) / English
 
 ## 🚀 Core Competence
@@ -70,7 +70,7 @@ _Last updated: 2026-02-22_
 
 **Vision**: AIエージェントの社会実装を通じて、人同士のコミュニケーションがより促進される豊かな社会の実現を目指しています。「日常のタスクをAIに委ね、人が対面でのコミュニケーションに集中できる社会」を作ることが私の目標です。
 
-- **専門領域**: LLM Agents, IoT Control, Edge AI, UI/UX Design.
+- **専門領域**: LLM Agents, Browser Agent, RAG, Edge AI, UI/UX Design.
 - **拠点**: 日本 | **言語**: 日本語（母国語）/ 英語
 
 ## 🚀 強み / 実績
