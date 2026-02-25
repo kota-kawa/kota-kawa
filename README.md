@@ -70,8 +70,8 @@ _Last updated: 2026-02-22_
 
 **Vision**: AIエージェントの社会実装を通じて、人同士のコミュニケーションがより促進される豊かな社会の実現を目指しています。「日常のタスクをAIに委ね、人が対面でのコミュニケーションに集中できる社会」を作ることが私の目標です。
 
-- **Focus**: LLM Agents, IoT Control, Edge AI, UI/UX Design.
-- **Location**: Japan | **Languages**: Japanese (Native) / English
+- **専門領域**: LLM Agents, IoT Control, Edge AI, UI/UX Design.
+- **拠点**: 日本 | **言語**: 日本語（母国語）/ 英語
 
 ## 🚀 強み / 実績
 
