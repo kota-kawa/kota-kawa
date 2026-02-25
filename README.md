@@ -63,12 +63,15 @@ _Last updated: 2026-02-22_
   <summary>日本語版（Japanese Version）</summary>
 
 # こんにちは、川越 航太 (Kota Kawagoe) です 👋
-**AI Agent Researcher / Software Engineer**
+**AI Agent Researcher / Software Engineer** — **Art/Design (UI/UX)** と **バックエンドロジック** の架け橋。
 
 大学でLLMを用いたAIエージェントの研究をしています。
 **Art/Design** のバックグラウンドを持ち、優れた **UI/UX** と堅牢な **バックエンドロジック** の両方を兼ね備えたエージェント開発が得意です。
 
 **Vision**: AIエージェントの社会実装を通じて、人同士のコミュニケーションがより促進される豊かな社会の実現を目指しています。「日常のタスクをAIに委ね、人が対面でのコミュニケーションに集中できる社会」を作ることが私の目標です。
+
+- **Focus**: LLM Agents, IoT Control, Edge AI, UI/UX Design.
+- **Location**: Japan | **Languages**: Japanese (Native) / English
 
 ## 🚀 強み / 実績
 
@@ -115,5 +118,7 @@ _Last updated: 2026-02-22_
 ## 🗓️ 現在
 - **インターン**: カスタマーサポートに求められる要件を把握し、RAGチャットシステムの設計・開発に従事。
 - **開発**: 本番環境でのAIエージェントの安定稼働・信頼性向上に取り組んでいる。
+
+_Last updated: 2026-02-22_
 
 </details>
