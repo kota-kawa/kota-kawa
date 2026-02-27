@@ -17,7 +17,7 @@ As a university student, I specialize in building intuitive AI Agents that inter
 Developed a **Multi-Agent Orchestration System** for my graduation research, integrating five specialized agents (RAG, Browser Use, IoT, Scheduler, and Orchestrator). The experience of integrating and evaluating a system that provides real-world feedback through hardware, rather than just remaining within the web, is a rare achievement in Japan.
 
 ## 🔬 Research
-- **NCSP Presentation (EN)**: [NCSP-Presentation-EN.pptx](presentation/NCSP-Presentation-EN.pptx)
+- **Graduation Research Presentation Slides (NCSP, English)**: [NCSP-Presentation-EN.pptx](presentation/NCSP-Presentation-EN.pptx)
 
 ## 🔗 Links
 - **Resume**: [https://github.com/kota-kawa/resume](https://github.com/kota-kawa/resume)
@@ -83,7 +83,7 @@ _Last updated: 2026-02-22_
 卒業研究にて、5種の専門エージェント（RAG、Web操作、IoT、Scheduler、Orchestrator）を統合した「マルチエージェント・オーケストレーションシステム」を完遂。Web完結だけでなく、ハードウェアを含めた実世界へのフィードバックまでを一つのシステムとして統合・評価した経験は、国内でも稀有な実績です。
 
 ## 🔬 研究
-- **NCSPプレゼン資料（英語）**: [NCSP-Presentation-EN.pptx](presentation/NCSP-Presentation-EN.pptx)
+- **卒業研究プレゼン資料（NCSP・英語）**: [NCSP-Presentation-EN.pptx](presentation/NCSP-Presentation-EN.pptx)
 
 ## 🔗 リンク
 - **Resume**: [https://github.com/kota-kawa/resume](https://github.com/kota-kawa/resume)
