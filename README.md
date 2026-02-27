@@ -54,7 +54,7 @@ Developed a **Multi-Agent Orchestration System** for my graduation research, int
 - **Database**: PostgreSQL (pgvector), MySQL, Redis, TinyDB.
 - **Frontend**: React, Next.js, Bootstrap, Tailwind CSS, TypeScript.
 - **IoT & Hardware**: NVIDIA Jetson Orin Nano, Raspberry Pi 4/Pico W.
-- **Infrastructure**: Docker, Nginx, Linux, AWS (EC2, S3, VPC, RDS, ELB), Ubuntu, Raspbian, Jetson Linux.
+- **Infrastructure**: Docker, Nginx, Linux, Ubuntu.
 - **Tools**: Git, codex, claude code.
 
 ## 🗓️ Now
@@ -120,7 +120,7 @@ _Last updated: 2026-02-22_
 - **データベース**: PostgreSQL (pgvector), MySQL, Redis, TinyDB.
 - **フロントエンド**: React, Next.js, Bootstrap, Tailwind CSS, TypeScript.
 - **IoT/ハードウェア**: Jetson Orin Nano, Raspberry Pi 4/Pico W.
-- **インフラ**: Docker, Nginx, Linux, AWS (EC2, S3, VPC, RDS, ELB), Ubuntu, Raspbian, Jetson Linux.
+- **インフラ**: Docker, Nginx, Linux, Ubuntu.
 - **ツール**: Git, codex, claude code.
 
 ## 🗓️ 現在
