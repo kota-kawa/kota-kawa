@@ -52,10 +52,10 @@ Developed a **Multi-Agent Orchestration System** for my graduation research, int
 - **AI & LLM**: LangChain, LlamaIndex, LangGraph, `browser-use`, Local LLMs (GGUF/Edge), RAG, Multi-Agent Systems, Hugging Face, TensorFlow, PyTorch, OpenCV.
 - **Backend**: Python (FastAPI, Flask, Django), TypeScript, JavaScript, C, C#.
 - **Database**: PostgreSQL (pgvector), MySQL, Redis, TinyDB.
-- **Frontend**: React, Next.js, Bootstrap, Tailwind CSS, TypeScript, Figma.
-- **IoT & Hardware**: NVIDIA Jetson Orin Nano, Raspberry Pi 4/Pico W. Protocols: UART, HTTP, MQTT.
+- **Frontend**: React, Next.js, Bootstrap, Tailwind CSS, TypeScript.
+- **IoT & Hardware**: NVIDIA Jetson Orin Nano, Raspberry Pi 4/Pico W.
 - **Infrastructure**: Docker, Nginx, Linux, AWS (EC2, S3, VPC, RDS, ELB), Ubuntu, Raspbian, Jetson Linux.
-- **Tools**: Git, `uv`, WordPress, Unity.
+- **Tools**: Git, codex, claude code.
 
 ## 🗓️ Now
 - **Interning**: Identifying customer support requirements and developing a RAG-based chat system to address them.
@@ -118,10 +118,10 @@ _Last updated: 2026-02-22_
 - **AI/LLM**: LangChain, LlamaIndex, LangGraph, `browser-use`, ローカルLLM (GGUFエッジ推論), RAG, マルチエージェント, Hugging Face, TensorFlow, PyTorch, OpenCV.
 - **バックエンド**: Python (FastAPI, Flask, Django), TypeScript, JavaScript, C, C#.
 - **データベース**: PostgreSQL (pgvector), MySQL, Redis, TinyDB.
-- **フロントエンド**: React, Next.js, Bootstrap, Tailwind CSS, TypeScript, Figma.
-- **IoT/ハードウェア**: Jetson Orin Nano, Raspberry Pi 4/Pico W. プロトコル: UART, HTTP, MQTT.
+- **フロントエンド**: React, Next.js, Bootstrap, Tailwind CSS, TypeScript.
+- **IoT/ハードウェア**: Jetson Orin Nano, Raspberry Pi 4/Pico W.
 - **インフラ**: Docker, Nginx, Linux, AWS (EC2, S3, VPC, RDS, ELB), Ubuntu, Raspbian, Jetson Linux.
-- **ツール**: Git, `uv`, WordPress, Unity.
+- **ツール**: Git, codex, claude code.
 
 ## 🗓️ 現在
 - **インターン**: カスタマーサポートに求められる要件を把握し、RAGチャットシステムの設計・開発に従事。
