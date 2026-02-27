@@ -49,12 +49,12 @@ Developed a **Multi-Agent Orchestration System** for my graduation research, int
     - Alabama, USA | June 2023 – May 2024
 
 ## 🧰 Tech Stack
-- **AI & LLM**: LangChain, LangGraph, `browser-use`, Local LLMs (GGUF/Edge), RAG, Multi-Agent Systems, Hugging Face, TensorFlow, PyTorch, OpenCV.
-- **Backend**: Python (FastAPI, Flask, Django), TypeScript, C, C#.
+- **AI & LLM**: LangChain, LlamaIndex, LangGraph, `browser-use`, Local LLMs (GGUF/Edge), RAG, Multi-Agent Systems, Hugging Face, TensorFlow, PyTorch, OpenCV.
+- **Backend**: Python (FastAPI, Flask, Django), TypeScript, JavaScript, C, C#.
 - **Database**: PostgreSQL (pgvector), MySQL, Redis, TinyDB.
-- **Frontend**: React, Next.js, Tailwind CSS, TypeScript, Figma.
+- **Frontend**: React, Next.js, Bootstrap, Tailwind CSS, TypeScript, Figma.
 - **IoT & Hardware**: NVIDIA Jetson Orin Nano, Raspberry Pi 4/Pico W. Protocols: UART, HTTP, MQTT.
-- **Infrastructure**: Docker, Nginx, AWS (EC2, S3, VPC, RDS, ELB), Ubuntu, Raspbian, Jetson Linux.
+- **Infrastructure**: Docker, Nginx, Linux, AWS (EC2, S3, VPC, RDS, ELB), Ubuntu, Raspbian, Jetson Linux.
 - **Tools**: Git, `uv`, WordPress, Unity.
 
 ## 🗓️ Now
@@ -115,12 +115,12 @@ _Last updated: 2026-02-22_
     - アラバマ州, 米国 | 2023年6月 – 2024年5月
 
 ## 🧰 技術スタック
-- **AI/LLM**: LangChain, LangGraph, `browser-use`, ローカルLLM (GGUFエッジ推論), RAG, マルチエージェント, Hugging Face, TensorFlow, PyTorch, OpenCV.
-- **バックエンド**: Python (FastAPI, Flask, Django), TypeScript, C, C#.
+- **AI/LLM**: LangChain, LlamaIndex, LangGraph, `browser-use`, ローカルLLM (GGUFエッジ推論), RAG, マルチエージェント, Hugging Face, TensorFlow, PyTorch, OpenCV.
+- **バックエンド**: Python (FastAPI, Flask, Django), TypeScript, JavaScript, C, C#.
 - **データベース**: PostgreSQL (pgvector), MySQL, Redis, TinyDB.
-- **フロントエンド**: React, Next.js, Tailwind CSS, TypeScript, Figma.
+- **フロントエンド**: React, Next.js, Bootstrap, Tailwind CSS, TypeScript, Figma.
 - **IoT/ハードウェア**: Jetson Orin Nano, Raspberry Pi 4/Pico W. プロトコル: UART, HTTP, MQTT.
-- **インフラ**: Docker, Nginx, AWS (EC2, S3, VPC, RDS, ELB), Ubuntu, Raspbian, Jetson Linux.
+- **インフラ**: Docker, Nginx, Linux, AWS (EC2, S3, VPC, RDS, ELB), Ubuntu, Raspbian, Jetson Linux.
 - **ツール**: Git, `uv`, WordPress, Unity.
 
 ## 🗓️ 現在
