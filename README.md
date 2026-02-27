@@ -37,6 +37,10 @@ Developed a **Multi-Agent Orchestration System** for my graduation research, int
    - **Overview**: An AI-driven assistant for managing schedules and tasks through natural language chat. Supports multiple LLMs (OpenAI, Gemini, Claude, Groq).
    - **Technologies**: Python, TypeScript, PostgreSQL, Docker.
 
+4) **[Chat-Core](https://github.com/kota-kawa/Chat-Core)** — *Production-ready AI chat platform.*
+   - **Overview**: A full-stack chat system with email authentication, persistent/ephemeral conversations, and prompt sharing. Integrates Groq and Gemini for multi-model AI responses.
+   - **Technologies**: Python (FastAPI), Next.js, PostgreSQL, Docker.
+
 ## 🎓 Education
 - **Kanagawa Institute of Technology** (KAIT)
     - Faculty of Information Technology
@@ -99,6 +103,10 @@ _Last updated: 2026-02-22_
 3) **[Scheduler-Agent](https://github.com/kota-kawa/Scheduler-Agent)** — *チャットで予定管理*
    - **概要**: 自然言語のチャットで予定やタスクを管理できるAIアシスタント。複数LLM（OpenAI, Gemini, Claude, Groq）の切り替えに対応。
    - **使用技術**: Python, TypeScript, PostgreSQL, Docker.
+
+4) **[Chat-Core](https://github.com/kota-kawa/Chat-Core)** — *本番運用を見据えたAIチャット基盤*
+   - **概要**: メール認証、永続/エフェメラルチャット、プロンプト共有を備えたフルスタックAIチャットシステム。GroqとGeminiを統合し、複数モデルの応答に対応。
+   - **使用技術**: Python (FastAPI), Next.js, PostgreSQL, Docker.
 
 ## 🎓 学歴
 - **神奈川工科大学**
