@@ -12,7 +12,7 @@ As a university student, I specialize in building intuitive AI Agents that inter
 
 ## 🚀 Core Competence
 
-**"Bridging Web and Physical Spaces: Unrivaled expertise in heterogeneous agent integration among students in Japan."**
+**"Orchestrated a multi-agent system with an orchestrator and combined long-term/short-term memory, achieving a 1.7x improvement in task success rate."**
 
 Developed a **Multi-Agent Orchestration System** for my graduation research, integrating five specialized agents (RAG, Browser Use, IoT, Scheduler, and Orchestrator). The experience of integrating and evaluating a system that provides real-world feedback through hardware, rather than just remaining within the web, is a rare achievement in Japan.
 
@@ -79,7 +79,7 @@ _Last updated: 2026-02-22_
 
 ## 🚀 強み / 実績
 
-**「Web空間から物理空間まで。異種のエージェント統合システムの設計・実装において、学生・若手エンジニアの中で日本一の経験値を持つ自負があります」**
+**「オーケストレーターでマルチエージェントを統合し、長期メモリと短期メモリを組み合わせることで、タスク成功率を1.7倍に改善しました」**
 
 卒業研究にて、5種の専門エージェント（RAG、Web操作、IoT、Scheduler、Orchestrator）を統合した「マルチエージェント・オーケストレーションシステム」を完遂。Web完結だけでなく、ハードウェアを含めた実世界へのフィードバックまでを一つのシステムとして統合・評価した経験は、国内でも稀有な実績です。
 
