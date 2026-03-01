@@ -26,18 +26,14 @@ Developed a **Multi-Agent Orchestration System** for my graduation research, int
 
 ## ⭐ Highlights
 1) **[Browser-Agent](https://github.com/kota-kawa/Browser-Agent)** — *Control the web with natural language.*
-   - **Overview**: A browser automation agent with a FastAPI web interface. Executes tasks via natural language instructions with real-time monitoring via noVNC. Supports multiple LLMs (Gemini, OpenAI, Anthropic, DeepSeek).
+   - **Overview**: A browser automation agent with a FastAPI web interface. Executes tasks via natural language instructions with real-time monitoring via noVNC. Supports multiple LLMs (Gemini, OpenAI, Anthropic).
    - **Technologies**: Python, FastAPI, TypeScript, Docker.
 
 2) **[Chat-Core](https://github.com/kota-kawa/Chat-Core)** — *Production-ready AI chat platform.*
    - **Overview**: A full-stack chat system with email authentication, persistent/ephemeral conversations, and prompt sharing. Integrates Groq and Gemini for multi-model AI responses.
    - **Technologies**: Python (FastAPI), Next.js, PostgreSQL, Docker.
 
-3) **[yorozu_madoguchi](https://github.com/kota-kawa/yorozu_madoguchi)** — *All-in-one AI service counter.*
-   - **Overview**: A full-stack web app that converts natural language input into structured outputs via an AI chat interface. Built with production-grade architecture including service isolation and containerization.
-   - **Technologies**: Python (Flask), React, PostgreSQL, Redis, Docker.
-
-4) **[Scheduler-Agent](https://github.com/kota-kawa/Scheduler-Agent)** — *Smart schedule management via chat.*
+3) **[Scheduler-Agent](https://github.com/kota-kawa/Scheduler-Agent)** — *Smart schedule management via chat.*
    - **Overview**: An AI-driven assistant for managing schedules and tasks through natural language chat. Supports multiple LLMs (OpenAI, Gemini, Claude, Groq).
    - **Technologies**: Python, TypeScript, PostgreSQL, Docker.
 
@@ -49,9 +45,9 @@ Developed a **Multi-Agent Orchestration System** for my graduation research, int
     - Alabama, USA | June 2023 – May 2024
 
 ## 🧰 Tech Stack
-- **AI & LLM**: LangChain, LlamaIndex, LangGraph, `browser-use`, Local LLMs (GGUF/Edge), RAG, Multi-Agent Systems, Hugging Face, TensorFlow, PyTorch, OpenCV.
-- **Backend**: Python (FastAPI, Flask, Django), TypeScript, JavaScript, C, C#.
-- **Database**: PostgreSQL (pgvector), MySQL, Redis, TinyDB.
+- **AI & LLM**: LangChain, LlamaIndex, LangGraph, `browser-use`, Local LLMs (GGUF/Edge), RAG, Multi-Agent Systems, TensorFlow, PyTorch, OpenCV.
+- **Backend**: Python (FastAPI, Flask, Django), TypeScript, JavaScript.
+- **Database**: PostgreSQL, MySQL, Redis.
 - **Frontend**: React, Next.js, Bootstrap, Tailwind CSS, TypeScript.
 - **IoT & Hardware**: NVIDIA Jetson Orin Nano, Raspberry Pi 4/Pico W.
 - **Infrastructure**: Docker, Nginx, Linux, Ubuntu.
@@ -93,18 +89,14 @@ _Last updated: 2026-02-22_
 
 ## ⭐ 代表作
 1) **[Browser-Agent](https://github.com/kota-kawa/Browser-Agent)** — *自然言語でWebを操作する*
-   - **概要**: FastAPIベースのWebインターフェースを持つブラウザ自動操作エージェント。自然言語の指示でタスクを実行し、noVNCでリアルタイム監視が可能。複数LLM（Gemini, OpenAI, Anthropic, DeepSeek）に対応。
+   - **概要**: FastAPIベースのWebインターフェースを持つブラウザ自動操作エージェント。自然言語の指示でタスクを実行し、noVNCでリアルタイム監視が可能。複数LLM（Gemini, OpenAI, Anthropic）に対応。
    - **使用技術**: Python, FastAPI, TypeScript, Docker.
 
 2) **[Chat-Core](https://github.com/kota-kawa/Chat-Core)** — *本番運用を見据えたAIチャット基盤*
    - **概要**: メール認証、永続/エフェメラルチャット、プロンプト共有を備えたフルスタックAIチャットシステム。GroqとGeminiを統合し、複数モデルの応答に対応。
    - **使用技術**: Python (FastAPI), Next.js, PostgreSQL, Docker.
 
-3) **[yorozu_madoguchi](https://github.com/kota-kawa/yorozu_madoguchi)** — *なんでも相談できるAI窓口*
-   - **概要**: AIチャットを通じて自然言語の入力を構造化された成果物に変換するフルスタックWebアプリ。サービス分離・コンテナ化など本番を想定したアーキテクチャで構築。
-   - **使用技術**: Python (Flask), React, PostgreSQL, Redis, Docker.
-
-4) **[Scheduler-Agent](https://github.com/kota-kawa/Scheduler-Agent)** — *チャットで予定管理*
+3) **[Scheduler-Agent](https://github.com/kota-kawa/Scheduler-Agent)** — *チャットで予定管理*
    - **概要**: 自然言語のチャットで予定やタスクを管理できるAIアシスタント。複数LLM（OpenAI, Gemini, Claude, Groq）の切り替えに対応。
    - **使用技術**: Python, TypeScript, PostgreSQL, Docker.
 
@@ -115,9 +107,9 @@ _Last updated: 2026-02-22_
     - アラバマ州, 米国 | 2023年6月 – 2024年5月
 
 ## 🧰 技術スタック
-- **AI/LLM**: LangChain, LlamaIndex, LangGraph, `browser-use`, ローカルLLM (GGUFエッジ推論), RAG, マルチエージェント, Hugging Face, TensorFlow, PyTorch, OpenCV.
-- **バックエンド**: Python (FastAPI, Flask, Django), TypeScript, JavaScript, C, C#.
-- **データベース**: PostgreSQL (pgvector), MySQL, Redis, TinyDB.
+- **AI/LLM**: LangChain, LlamaIndex, LangGraph, `browser-use`, ローカルLLM (GGUFエッジ推論), RAG, マルチエージェント, TensorFlow, PyTorch, OpenCV.
+- **バックエンド**: Python (FastAPI, Flask, Django), TypeScript, JavaScript.
+- **データベース**: PostgreSQL, MySQL, Redis.
 - **フロントエンド**: React, Next.js, Bootstrap, Tailwind CSS, TypeScript.
 - **IoT/ハードウェア**: Jetson Orin Nano, Raspberry Pi 4/Pico W.
 - **インフラ**: Docker, Nginx, Linux, Ubuntu.
