@@ -27,6 +27,7 @@ Developed a **Multi-Agent Orchestration System** for my graduation research, int
 ## ⭐ Highlights
 1) **[Browser-Agent](https://github.com/kota-kawa/Browser-Agent)** — *Control the web with natural language.*
    - **Overview**: A browser automation agent with a FastAPI web interface. Executes tasks via natural language instructions with real-time monitoring via noVNC. Supports multiple LLMs (Gemini, OpenAI, Anthropic).
+   - **Performance**: WebArena Shopping task success rate: 32.6% (N=187, max steps=40, retries=4, same prompt configuration).
    - **Technologies**: Python, FastAPI, TypeScript, Docker.
 
 2) **[Chat-Core](https://github.com/kota-kawa/Chat-Core)** — *Production-ready AI chat platform.*
@@ -90,6 +91,7 @@ _Last updated: 2026-02-22_
 ## ⭐ 代表作
 1) **[Browser-Agent](https://github.com/kota-kawa/Browser-Agent)** — *自然言語でWebを操作する*
    - **概要**: FastAPIベースのWebインターフェースを持つブラウザ自動操作エージェント。自然言語の指示でタスクを実行し、noVNCでリアルタイム監視が可能。複数LLM（Gemini, OpenAI, Anthropic）に対応。
+   - **性能**: WebArena Shoppingタスク成功率: 32.6% (N=187, 最大ステップ数=40, リトライ回数=4, 同一プロンプト設定)。
    - **使用技術**: Python, FastAPI, TypeScript, Docker.
 
 2) **[Chat-Core](https://github.com/kota-kawa/Chat-Core)** — *本番運用を見据えたAIチャット基盤*
