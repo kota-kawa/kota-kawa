@@ -29,7 +29,7 @@ Direct access to my currently active applications and platforms.
 
 - **[Yorozu-no-Madoguchi]** (https://chat.project-kk.com/) — *AI Concierge Window (Multi-Agent System).*
 - **[Chat-Core]** (https://chatcore-ai.com/) — *Full-stack AI Chat Platform.*
-- **[FS-QR]** (https://fs-qr.net/) — *Fast & Simple QR Code Generator.*
+- **[FS-QR]** (https://fs-qr.net/) — *File Sharing & QR Code Generator.*
 
 ## ⭐ Highlights
 1) **[Yorozu-no-Madoguchi](https://chat.project-kk.com/)** — *AI Concierge Window (Graduation Research).*
@@ -100,7 +100,7 @@ _Last updated: 2026-03-02_
 
 - **[よろずの窓口]** (https://chat.project-kk.com/) — *AIコンシェルジュ（マルチエージェント）。*
 - **[Chat-Core]** (https://chatcore-ai.com/) — *フルスタックAIチャット基盤。*
-- **[FS-QR]** (https://fs-qr.net/) — *高速・シンプルQRコード生成。*
+- **[FS-QR]** (https://fs-qr.net/) — *ファイル共有 & QR。*
 
 ## ⭐ 代表作
 1) **[よろずの窓口](https://chat.project-kk.com/)** — *AIコンシェルジュ窓口（卒業研究）*
