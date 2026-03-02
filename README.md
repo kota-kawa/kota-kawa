@@ -24,19 +24,26 @@ Developed a **Multi-Agent Orchestration System** for my graduation research, int
 - **LinkedIn**: [https://www.linkedin.com/in/kota-kawagoe-0a22263a7/](https://www.linkedin.com/in/kota-kawagoe-0a22263a7/)
 - **Email**: [kota7kawagoe@gmail.com](mailto:kota7kawagoe@gmail.com)
 
+## 🌐 Live Services
+Direct access to my currently active applications and platforms.
+
+- **[Yorozu-no-Madoguchi]** (https://chat.project-kk.com/) — *AI Concierge Window (Multi-Agent System).*
+- **[Chat-Core]** (https://chatcore-ai.com/) — *Full-stack AI Chat Platform.*
+- **[FS-QR]** (https://fs-qr.net/) — *Fast & Simple QR Code Generator.*
+
 ## ⭐ Highlights
-1) **[Browser-Agent](https://github.com/kota-kawa/Browser-Agent)** — *Control the web with natural language.*
-   - **Overview**: A browser automation agent with a FastAPI web interface. Executes tasks via natural language instructions with real-time monitoring via noVNC. Supports multiple LLMs (Gemini, OpenAI, Anthropic).
-   - **Performance**: WebArena Shopping task success rate: 32.6% (N=187, max steps=40, retries=4, same prompt configuration).
+1) **[Yorozu-no-Madoguchi](https://chat.project-kk.com/)** — *AI Concierge Window (Graduation Research).*
+   - **Overview**: The practical implementation of the Multi-Agent Orchestration System. It integrates specialized agents to handle complex real-world tasks through a single chat interface.
+   - **Technologies**: Python, FastAPI, LangGraph, Docker.
+
+2) **[Browser-Agent](https://github.com/kota-kawa/Browser-Agent)** — *Control the web with natural language.*
+   - **Overview**: A browser automation agent with a FastAPI web interface. Executes tasks via natural language instructions with real-time monitoring via noVNC.
+   - **Performance**: WebArena Shopping task success rate: 32.6%.
    - **Technologies**: Python, FastAPI, TypeScript, Docker.
 
-2) **[Chat-Core](https://github.com/kota-kawa/Chat-Core)** — *Production-ready AI chat platform.*
-   - **Overview**: A full-stack chat system with email authentication, persistent/ephemeral conversations, and prompt sharing. Integrates Groq and Gemini for multi-model AI responses.
+3) **[Chat-Core](https://github.com/kota-kawa/Chat-Core)** ([Live](https://chatcore-ai.com/)) — *Production-ready AI chat platform.*
+   - **Overview**: A full-stack chat system with email authentication, persistent conversations, and prompt sharing. Integrates Groq and Gemini.
    - **Technologies**: Python (FastAPI), Next.js, PostgreSQL, Docker.
-
-3) **[Scheduler-Agent](https://github.com/kota-kawa/Scheduler-Agent)** — *Smart schedule management via chat.*
-   - **Overview**: An AI-driven assistant for managing schedules and tasks through natural language chat. Supports multiple LLMs (OpenAI, Gemini, Claude, Groq).
-   - **Technologies**: Python, TypeScript, PostgreSQL, Docker.
 
 ## 🎓 Education
 - **Kanagawa Institute of Technology** (KAIT)
@@ -58,7 +65,7 @@ Developed a **Multi-Agent Orchestration System** for my graduation research, int
 - **Interning**: Identifying customer support requirements and developing a RAG-based chat system to address them.
 - **Building**: Improving the reliability and stability of AI agent execution in production environments.
 
-_Last updated: 2026-02-22_
+_Last updated: 2026-03-02_
 
 <details>
   <summary>日本語版（Japanese Version）</summary>
@@ -88,19 +95,26 @@ _Last updated: 2026-02-22_
 - **LinkedIn**: [https://www.linkedin.com/in/kota-kawagoe-0a22263a7/](https://www.linkedin.com/in/kota-kawagoe-0a22263a7/)
 - **Email**: [kota7kawagoe@gmail.com](mailto:kota7kawagoe@gmail.com)
 
+## 🌐 稼働中のサービス
+現在実際にアクセスして利用可能なサービスです。
+
+- **[よろずの窓口]** (https://chat.project-kk.com/) — *AIコンシェルジュ（マルチエージェント）。*
+- **[Chat-Core]** (https://chatcore-ai.com/) — *フルスタックAIチャット基盤。*
+- **[FS-QR]** (https://fs-qr.net/) — *高速・シンプルQRコード生成。*
+
 ## ⭐ 代表作
-1) **[Browser-Agent](https://github.com/kota-kawa/Browser-Agent)** — *自然言語でWebを操作する*
-   - **概要**: FastAPIベースのWebインターフェースを持つブラウザ自動操作エージェント。自然言語の指示でタスクを実行し、noVNCでリアルタイム監視が可能。複数LLM（Gemini, OpenAI, Anthropic）に対応。
-   - **性能**: WebArena Shoppingタスク成功率: 32.6% (N=187, 最大ステップ数=40, リトライ回数=4, 同一プロンプト設定)。
+1) **[よろずの窓口](https://chat.project-kk.com/)** — *AIコンシェルジュ窓口（卒業研究）*
+   - **概要**: 卒業研究で開発したマルチエージェント・オーケストレーションシステムの社会実装モデル。単一のチャットインターフェースから、複数の専門エージェントを介して複雑な実世界のタスクを処理します。
+   - **使用技術**: Python, FastAPI, LangGraph, Docker.
+
+2) **[Browser-Agent](https://github.com/kota-kawa/Browser-Agent)** — *自然言語でWebを操作する*
+   - **概要**: FastAPIベースのWebインターフェースを持つブラウザ自動操作エージェント。自然言語の指示でタスクを実行し、noVNCでリアルタイム監視が可能。
+   - **性能**: WebArena Shoppingタスク成功率: 32.6%。
    - **使用技術**: Python, FastAPI, TypeScript, Docker.
 
-2) **[Chat-Core](https://github.com/kota-kawa/Chat-Core)** — *本番運用を見据えたAIチャット基盤*
-   - **概要**: メール認証、永続/エフェメラルチャット、プロンプト共有を備えたフルスタックAIチャットシステム。GroqとGeminiを統合し、複数モデルの応答に対応。
+3) **[Chat-Core](https://github.com/kota-kawa/Chat-Core)** ([Live](https://chatcore-ai.com/)) — *本番運用を見据えたAIチャット基盤*
+   - **概要**: メール認証、永続チャット、プロンプト共有を備えたフルスタックAIチャットシステム。GroqとGeminiを統合。
    - **使用技術**: Python (FastAPI), Next.js, PostgreSQL, Docker.
-
-3) **[Scheduler-Agent](https://github.com/kota-kawa/Scheduler-Agent)** — *チャットで予定管理*
-   - **概要**: 自然言語のチャットで予定やタスクを管理できるAIアシスタント。複数LLM（OpenAI, Gemini, Claude, Groq）の切り替えに対応。
-   - **使用技術**: Python, TypeScript, PostgreSQL, Docker.
 
 ## 🎓 学歴
 - **神奈川工科大学**
@@ -121,6 +135,6 @@ _Last updated: 2026-02-22_
 - **インターン**: カスタマーサポートに求められる要件を把握し、RAGチャットシステムの設計・開発に従事。
 - **開発**: 本番環境でのAIエージェントの安定稼働・信頼性向上に取り組んでいる。
 
-_Last updated: 2026-02-22_
+_Last updated: 2026-03-02_
 
 </details>
