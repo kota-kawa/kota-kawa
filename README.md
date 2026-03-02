@@ -32,9 +32,9 @@ Direct access to my currently active applications and platforms.
 - **[FS-QR]** (https://fs-qr.net/) — *File Sharing & QR Code Generator.*
 
 ## ⭐ Highlights
-1) **[Yorozu-no-Madoguchi](https://chat.project-kk.com/)** — *AI Concierge Window (Graduation Research).*
-   - **Overview**: The practical implementation of the Multi-Agent Orchestration System. It integrates specialized agents to handle complex real-world tasks through a single chat interface.
-   - **Technologies**: Python, FastAPI, LangGraph, Docker.
+1) **[Scheduler-Agent](https://github.com/kota-kawa/Scheduler-Agent)** — *Smart schedule management via chat.*
+   - **Overview**: An AI-driven assistant for managing schedules and tasks through natural language chat. Supports multiple LLMs (OpenAI, Gemini, Claude, Groq).
+   - **Technologies**: Python, TypeScript, PostgreSQL, Docker.
 
 2) **[Browser-Agent](https://github.com/kota-kawa/Browser-Agent)** — *Control the web with natural language.*
    - **Overview**: A browser automation agent with a FastAPI web interface. Executes tasks via natural language instructions with real-time monitoring via noVNC.
@@ -103,9 +103,9 @@ _Last updated: 2026-03-02_
 - **[FS-QR]** (https://fs-qr.net/) — *ファイル共有 & QR。*
 
 ## ⭐ 代表作
-1) **[よろずの窓口](https://chat.project-kk.com/)** — *AIコンシェルジュ窓口（卒業研究）*
-   - **概要**: 卒業研究で開発したマルチエージェント・オーケストレーションシステムの社会実装モデル。単一のチャットインターフェースから、複数の専門エージェントを介して複雑な実世界のタスクを処理します。
-   - **使用技術**: Python, FastAPI, LangGraph, Docker.
+1) **[Scheduler-Agent](https://github.com/kota-kawa/Scheduler-Agent)** — *チャットで予定管理*
+   - **概要**: 自然言語のチャットで予定やタスクを管理できるAIアシスタント。複数LLM（OpenAI, Gemini, Claude, Groq）の切り替えに対応。
+   - **使用技術**: Python, TypeScript, PostgreSQL, Docker.
 
 2) **[Browser-Agent](https://github.com/kota-kawa/Browser-Agent)** — *自然言語でWebを操作する*
    - **概要**: FastAPIベースのWebインターフェースを持つブラウザ自動操作エージェント。自然言語の指示でタスクを実行し、noVNCでリアルタイム監視が可能。
