@@ -14,7 +14,7 @@ As a university student, I specialize in building intuitive AI Agents that inter
 
 **"Orchestrated a multi-agent system with an orchestrator and combined long-term/short-term memory, achieving a 1.7x improvement in task success rate."**
 
-Developed a **Multi-Agent Orchestration System** for my graduation research, integrating five specialized agents (RAG, Browser Use, IoT, Scheduler, and Orchestrator). The experience of integrating and evaluating a system that provides real-world feedback through hardware, rather than just remaining within the web, is a rare achievement in Japan.
+Developed a **Multi-Agent Orchestration System** for my graduation research, integrating five specialized agents (RAG, Browser Use, IoT, Scheduler, and Orchestrator). This research was presented at **NCSP'26** (Honolulu, Hawaii). The experience of integrating and evaluating a system that provides real-world feedback through hardware, rather than just remaining within the web, is a rare achievement in Japan.
 
 ## 🔗 Links
 - **Resume**: [https://github.com/kota-kawa/resume](https://github.com/kota-kawa/resume)
@@ -71,7 +71,7 @@ _Last updated: 2026-03-02_
   <summary>日本語版（Japanese Version）</summary>
 
 # こんにちは、川越 航太 (Kota Kawagoe) です 👋
-**AI Agent Researcher / Software Engineer** — **Art/Design (UI/UX)** と **バックエンドロジック** の架け橋。
+**AI Agent Researcher / Software Engineer** — **Art/Design (UI/UX)** と **バックエンドロジック**。
 
 大学でLLMを用いたAIエージェントの研究をしています。
 **Art/Design** のバックグラウンドを持ち、優れた **UI/UX** と堅牢な **バックエンドロジック** の両方を兼ね備えたエージェント開発が得意です。
@@ -85,7 +85,7 @@ _Last updated: 2026-03-02_
 
 **「オーケストレーターでマルチエージェントを統合し、長期メモリと短期メモリを組み合わせることで、タスク成功率を1.7倍に改善しました」**
 
-卒業研究にて、5種の専門エージェント（RAG、Web操作、IoT、Scheduler、Orchestrator）を統合した「マルチエージェント・オーケストレーションシステム」を完遂。Web完結だけでなく、ハードウェアを含めた実世界へのフィードバックまでを一つのシステムとして統合・評価した経験は、国内でも稀有な実績です。
+卒業研究にて、5種の専門エージェント（RAG、Web操作、IoT、Scheduler、Orchestrator）を統合した「マルチエージェント・オーケストレーションシステム」を完遂。その研究は、NCSP'26（ハワイ・ホノルル開催）において発表しました。Web完結だけでなく、ハードウェアを含めた実世界へのフィードバックまでを一つのシステムとして統合・評価した経験は、国内でも稀有な実績です。
 
 ## 🔗 リンク
 - **Resume**: [https://github.com/kota-kawa/resume](https://github.com/kota-kawa/resume)
