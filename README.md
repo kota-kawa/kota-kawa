@@ -61,7 +61,7 @@ Direct access to my currently active applications and platforms.
 | Databases / Infra | PostgreSQL, Redis, Docker, Nginx, Linux |
 | Frontend | React, Next.js, Tailwind CSS |
 | IoT / Hardware | NVIDIA Jetson Orin Nano, Raspberry Pi 4/Pico W |
-| Tools | Git, Claude Code |
+| Tools | Git, Claude Code, Codex |
 
 ## 🗓️ Now
 - **Interning**: Identifying customer support requirements and developing a RAG-based chat system to address them.
@@ -133,7 +133,7 @@ _Last updated: 2026-03-02_
 | データベース / インフラ | PostgreSQL, Redis, Docker, Nginx, Linux |
 | フロントエンド | React, Next.js, Tailwind CSS |
 | IoT / ハードウェア | NVIDIA Jetson Orin Nano, Raspberry Pi 4/Pico W |
-| ツール | Git, Claude Code |
+| ツール | Git, Claude Code, Codex |
 
 ## 🗓️ 現在
 - **インターン**: カスタマーサポートに求められる要件を把握し、RAGチャットシステムの設計・開発に従事。
