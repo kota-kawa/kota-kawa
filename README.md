@@ -53,13 +53,15 @@ Direct access to my currently active applications and platforms.
     - Alabama, USA | June 2023 – May 2024
 
 ## 🧰 Tech Stack
-- **AI & LLM**: LangChain, LlamaIndex, LangGraph, `browser-use`, Local LLMs (GGUF/Edge), RAG, Multi-Agent Systems, TensorFlow, PyTorch, OpenCV.
-- **Backend**: Python (FastAPI, Flask, Django), TypeScript, JavaScript.
-- **Database**: PostgreSQL, MySQL, Redis.
-- **Frontend**: React, Next.js, Bootstrap, Tailwind CSS, TypeScript.
-- **IoT & Hardware**: NVIDIA Jetson Orin Nano, Raspberry Pi 4/Pico W.
-- **Infrastructure**: Docker, Nginx, Linux, Ubuntu.
-- **Tools**: Git, codex, claude code.
+
+| Category | Technologies |
+|---|---|
+| Languages / Backend | Python, TypeScript, FastAPI |
+| AI / LLM / RAG | LangChain, LangGraph, browser-use, RAG, Multi-Agent Systems |
+| Databases / Infra | PostgreSQL, Redis, Docker, Nginx, Linux |
+| Frontend | React, Next.js, Tailwind CSS |
+| IoT / Hardware | NVIDIA Jetson Orin Nano, Raspberry Pi 4/Pico W |
+| Tools | Git, Claude Code |
 
 ## 🗓️ Now
 - **Interning**: Identifying customer support requirements and developing a RAG-based chat system to address them.
@@ -123,13 +125,15 @@ _Last updated: 2026-03-02_
     - アラバマ州, 米国 | 2023年6月 – 2024年5月
 
 ## 🧰 技術スタック
-- **AI/LLM**: LangChain, LlamaIndex, LangGraph, `browser-use`, ローカルLLM (GGUFエッジ推論), RAG, マルチエージェント, TensorFlow, PyTorch, OpenCV.
-- **バックエンド**: Python (FastAPI, Flask, Django), TypeScript, JavaScript.
-- **データベース**: PostgreSQL, MySQL, Redis.
-- **フロントエンド**: React, Next.js, Bootstrap, Tailwind CSS, TypeScript.
-- **IoT/ハードウェア**: Jetson Orin Nano, Raspberry Pi 4/Pico W.
-- **インフラ**: Docker, Nginx, Linux, Ubuntu.
-- **ツール**: Git, codex, claude code.
+
+| カテゴリ | 技術 |
+|---|---|
+| 言語 / バックエンド | Python, TypeScript, FastAPI |
+| AI / LLM / RAG | LangChain, LangGraph, browser-use, RAG, マルチエージェント |
+| データベース / インフラ | PostgreSQL, Redis, Docker, Nginx, Linux |
+| フロントエンド | React, Next.js, Tailwind CSS |
+| IoT / ハードウェア | NVIDIA Jetson Orin Nano, Raspberry Pi 4/Pico W |
+| ツール | Git, Claude Code |
 
 ## 🗓️ 現在
 - **インターン**: カスタマーサポートに求められる要件を把握し、RAGチャットシステムの設計・開発に従事。
