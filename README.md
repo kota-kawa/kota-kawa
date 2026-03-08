@@ -21,7 +21,7 @@ Developed a **Multi-Agent Orchestration System** for my graduation research, int
 - **Portfolio**: [https://project-kk.com/](https://project-kk.com/)
 - **Blog**: [https://blog.project-kk.com/](https://blog.project-kk.com/)
 - **X (Twitter)**: [https://x.com/project_kk_ai](https://x.com/project_kk_ai)
-- **LinkedIn**: [https://www.linkedin.com/in/kota-kawagoe-0a22263a7/](https://www.linkedin.com/in/kota-kawagoe-0a22263a7/)
+- **LinkedIn**: [https://www.linkedin.com/in/kota-kawa/](https://www.linkedin.com/in/kota-kawa/)
 - **Email**: [kota7kawagoe@gmail.com](mailto:kota7kawagoe@gmail.com)
 
 ## 🌐 Live Services
@@ -95,7 +95,7 @@ _Last updated: 2026-03-02_
 - **Portfolio**: [https://project-kk.com/](https://project-kk.com/)
 - **Blog**: [https://blog.project-kk.com/](https://blog.project-kk.com/)
 - **X (Twitter)**: [https://x.com/project_kk_ai](https://x.com/project_kk_ai)
-- **LinkedIn**: [https://www.linkedin.com/in/kota-kawagoe-0a22263a7/](https://www.linkedin.com/in/kota-kawagoe-0a22263a7/)
+- **LinkedIn**: [https://www.linkedin.com/in/kota-kawa/](https://www.linkedin.com/in/kota-kawa/)
 - **Email**: [kota7kawagoe@gmail.com](mailto:kota7kawagoe@gmail.com)
 
 ## 🌐 稼働中のサービス
