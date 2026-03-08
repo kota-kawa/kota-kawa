@@ -56,12 +56,13 @@ Direct access to my currently active applications and platforms.
 
 | Category | Technologies |
 |---|---|
-| Languages / Backend | Python, TypeScript, FastAPI |
-| AI / LLM / RAG | LangChain, LangGraph, browser-use, RAG, Multi-Agent Systems |
-| Databases / Infra | PostgreSQL, Redis, Docker, Nginx, Linux |
+| Programming Languages | Python, TypeScript, SQL |
+| Backend / API | FastAPI, Node.js |
+| AI / LLM Engineering | RAG, Multi-Agent Systems, LangChain, LangGraph, browser-use |
+| Databases | PostgreSQL, Redis |
+| Infrastructure / DevOps | Docker, Linux, Nginx, Git, GitHub Actions, pytest |
 | Frontend | React, Next.js, Tailwind CSS |
 | IoT / Hardware | NVIDIA Jetson Orin Nano, Raspberry Pi 4/Pico W |
-| Tools | Git, pytest, GitHub Actions, Claude Code, Codex |
 
 ## 🗓️ Now
 - **Interning**: Identifying customer support requirements and developing a RAG-based chat system to address them.
@@ -128,12 +129,13 @@ _Last updated: 2026-03-02_
 
 | カテゴリ | 技術 |
 |---|---|
-| 言語 / バックエンド | Python, TypeScript, FastAPI |
-| AI / LLM / RAG | LangChain, LangGraph, browser-use, RAG, マルチエージェント |
-| データベース / インフラ | PostgreSQL, Redis, Docker, Nginx, Linux |
+| プログラミング言語 | Python, TypeScript, SQL |
+| バックエンド / API | FastAPI, Node.js |
+| AI / LLM エンジニアリング | RAG, Multi-Agent Systems, LangChain, LangGraph, browser-use |
+| データベース | PostgreSQL, Redis |
+| インフラ / DevOps | Docker, Linux, Nginx, Git, GitHub Actions, pytest |
 | フロントエンド | React, Next.js, Tailwind CSS |
 | IoT / ハードウェア | NVIDIA Jetson Orin Nano, Raspberry Pi 4/Pico W |
-| ツール | Git, pytest, GitHub Actions, Claude Code, Codex |
 
 ## 🗓️ 現在
 - **インターン**: カスタマーサポートに求められる要件を把握し、RAGチャットシステムの設計・開発に従事。
