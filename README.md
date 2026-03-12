@@ -26,7 +26,7 @@ Developed a **Multi-Agent Orchestration System** for my graduation research, int
 Direct access to my currently active applications and platforms.
 
 - **[Yorozu-no-Madoguchi]** (https://chat.project-kk.com/) — *AI Concierge Window (Multi-Agent System).*
-- **[Chat-Core]** (https://chatcore-ai.com/) — *Full-stack AI Chat Platform.*
+- **[ChatCore-AI]** (https://chatcore-ai.com/) — *Full-stack AI Chat Platform.*
 - **[FS-QR]** (https://fs-qr.net/) — *File Sharing & QR Code Generator.*
 
 ## ⭐ Highlights
@@ -35,7 +35,7 @@ Direct access to my currently active applications and platforms.
    - **Performance**: WebArena Shopping task success rate: 32.6%.
    - **Technologies**: Python, FastAPI, TypeScript, Docker.
 
-2) **[Chat-Core](https://github.com/kota-kawa/Chat-Core)** ([Live](https://chatcore-ai.com/)) — *Production-ready AI chat platform.*
+2) **[ChatCore-AI](https://github.com/kota-kawa/ChatCore-AI)** ([Live](https://chatcore-ai.com/)) — *Production-ready AI chat platform.*
    - **Overview**: A full-stack chat system with email authentication, persistent conversations, and prompt sharing. Integrates Groq and Gemini.
    - **Technologies**: Python (FastAPI), Next.js, PostgreSQL, Docker.
 
@@ -96,7 +96,7 @@ _Last updated: 2026-03-02_
 現在実際にアクセスして利用可能なサービスです。
 
 - **[よろずの窓口]** (https://chat.project-kk.com/) — *AIコンシェルジュ（マルチエージェント）。*
-- **[Chat-Core]** (https://chatcore-ai.com/) — *フルスタックAIチャット基盤。*
+- **[ChatCore-AI]** (https://chatcore-ai.com/) — *フルスタックAIチャット基盤。*
 - **[FS-QR]** (https://fs-qr.net/) — *ファイル共有 & QR。*
 
 ## ⭐ 代表作
@@ -105,7 +105,7 @@ _Last updated: 2026-03-02_
    - **性能**: WebArena Shoppingタスク成功率: 32.6%。
    - **使用技術**: Python, FastAPI, TypeScript, Docker.
 
-2) **[Chat-Core](https://github.com/kota-kawa/Chat-Core)** ([Live](https://chatcore-ai.com/)) — *本番運用を見据えたAIチャット基盤*
+2) **[ChatCore-AI](https://github.com/kota-kawa/ChatCore-AI)** ([Live](https://chatcore-ai.com/)) — *本番運用を見据えたAIチャット基盤*
    - **概要**: メール認証、永続チャット、プロンプト共有を備えたフルスタックAIチャットシステム。GroqとGeminiを統合。
    - **使用技術**: Python (FastAPI), Next.js, PostgreSQL, Docker.
 
