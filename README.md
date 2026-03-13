@@ -64,7 +64,7 @@ Direct access to my currently active applications and platforms.
 - **Interning**: Identifying customer support requirements and developing a RAG-based chat system to address them.
 - **Building**: Improving the reliability and stability of AI agent execution in production environments.
 
-_Last updated: 2026-03-02_
+_Last updated: 2026-03-13_
 
 <details>
   <summary>日本語版（Japanese Version）</summary>
@@ -133,6 +133,6 @@ _Last updated: 2026-03-02_
 - **インターン**: カスタマーサポートに求められる要件を把握し、RAGチャットシステムの設計・開発に従事。
 - **開発**: 本番環境でのAIエージェントの安定稼働・信頼性向上に取り組んでいる。
 
-_Last updated: 2026-03-02_
+_Last updated: 2026-03-13_
 
 </details>
