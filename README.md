@@ -57,14 +57,14 @@ Direct access to my currently active applications and platforms.
 | Programming Languages | Python, TypeScript, SQL |
 | Web / Application Frameworks | FastAPI, React, Next.js, Tailwind CSS |
 | AI / LLM Engineering | RAG, Multi-Agent Systems, LangChain, LangGraph, browser-use |
-| Data / Infrastructure | PostgreSQL, Redis, Docker, Linux, Nginx, Git, GitHub Actions, pytest |
+| Data / Infrastructure | PostgreSQL, Redis, Docker, Linux, Nginx, Git, GitHub Actions, AWS (EC2, VPC, Security Groups, Systems Manager), pytest |
 | IoT / Hardware | NVIDIA Jetson Orin Nano, Raspberry Pi 4/Pico W |
 
 ## 🗓️ Now
 - **Interning**: Identifying customer support requirements and developing a RAG-based chat system to address them.
 - **Building**: Improving the reliability and stability of AI agent execution in production environments.
 
-_Last updated: 2026-03-13_
+_Last updated: 2026-03-18_
 
 <details>
   <summary>日本語版（Japanese Version）</summary>
@@ -126,13 +126,13 @@ _Last updated: 2026-03-13_
 | プログラミング言語 | Python, TypeScript, SQL |
 | Web / アプリケーション基盤 | FastAPI, React, Next.js, Tailwind CSS |
 | AI / LLM エンジニアリング | RAG, Multi-Agent Systems, LangChain, LangGraph, browser-use |
-| データ / インフラ | PostgreSQL, Redis, Docker, Linux, Nginx, Git, GitHub Actions, pytest |
+| データ / インフラ | PostgreSQL, Redis, Docker, Linux, Nginx, Git, GitHub Actions, AWS (EC2, VPC, Security Groups, Systems Manager), pytest |
 | IoT / ハードウェア | NVIDIA Jetson Orin Nano, Raspberry Pi 4/Pico W |
 
 ## 🗓️ 現在
 - **インターン**: カスタマーサポートに求められる要件を把握し、RAGチャットシステムの設計・開発に従事。
 - **開発**: 本番環境でのAIエージェントの安定稼働・信頼性向上に取り組んでいる。
 
-_Last updated: 2026-03-13_
+_Last updated: 2026-03-18_
 
 </details>
