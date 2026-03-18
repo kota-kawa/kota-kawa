@@ -57,7 +57,8 @@ Direct access to my currently active applications and platforms.
 | Programming Languages | Python, TypeScript, SQL |
 | Web / Application Frameworks | FastAPI, React, Next.js, Tailwind CSS |
 | AI / LLM Engineering | RAG, Multi-Agent Systems, LangChain, LangGraph, browser-use |
-| Data / Infrastructure | PostgreSQL, Redis, Docker, Linux, Nginx, Git, GitHub Actions, AWS (EC2, VPC, Security Groups, Systems Manager), pytest |
+| Data / Infrastructure | PostgreSQL, Redis, Docker, Linux, Nginx, Git, GitHub Actions, pytest |
+| Cloud / AWS | EC2 (compute), VPC (network), Security Groups (firewall), Systems Manager (instance management) |
 | IoT / Hardware | NVIDIA Jetson Orin Nano, Raspberry Pi 4/Pico W |
 
 ## 🗓️ Now
@@ -126,7 +127,8 @@ _Last updated: 2026-03-18_
 | プログラミング言語 | Python, TypeScript, SQL |
 | Web / アプリケーション基盤 | FastAPI, React, Next.js, Tailwind CSS |
 | AI / LLM エンジニアリング | RAG, Multi-Agent Systems, LangChain, LangGraph, browser-use |
-| データ / インフラ | PostgreSQL, Redis, Docker, Linux, Nginx, Git, GitHub Actions, AWS (EC2, VPC, Security Groups, Systems Manager), pytest |
+| データ / インフラ | PostgreSQL, Redis, Docker, Linux, Nginx, Git, GitHub Actions, pytest |
+| クラウド / AWS | EC2（コンピュート）、VPC（ネットワーク）、Security Groups（ファイアウォール）、Systems Manager（インスタンス管理） |
 | IoT / ハードウェア | NVIDIA Jetson Orin Nano, Raspberry Pi 4/Pico W |
 
 ## 🗓️ 現在
