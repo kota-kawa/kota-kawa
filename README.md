@@ -55,10 +55,9 @@ Direct access to my currently active applications and platforms.
 | Category | Technologies |
 |---|---|
 | Programming Languages | Python, TypeScript, SQL |
-| Web / Application Frameworks | FastAPI, React, Next.js, Tailwind CSS |
+| Web / Application Frameworks | FastAPI, React, Next.js, Tailwind CSS, PostgreSQL, Redis |
 | AI / LLM Engineering | RAG, Multi-Agent Systems, LangChain, LangGraph, browser-use |
-| Data / Infrastructure | PostgreSQL, Redis, Docker, Linux, Nginx, Git, GitHub Actions, pytest |
-| Cloud / AWS | EC2 (compute), VPC (network), Security Groups (firewall), Systems Manager (instance management) |
+| Infrastructure | Docker, AWS (EC2, VPC, Systems Manager), Linux, Nginx, Git, GitHub Actions, pytest |
 | IoT / Hardware | NVIDIA Jetson Orin Nano, Raspberry Pi 4/Pico W |
 
 ## 🗓️ Now
@@ -125,10 +124,9 @@ _Last updated: 2026-03-18_
 | カテゴリ | 技術 |
 |---|---|
 | プログラミング言語 | Python, TypeScript, SQL |
-| Web / アプリケーション基盤 | FastAPI, React, Next.js, Tailwind CSS |
+| Web / アプリケーション基盤 | FastAPI, React, Next.js, Tailwind CSS, PostgreSQL, Redis |
 | AI / LLM エンジニアリング | RAG, Multi-Agent Systems, LangChain, LangGraph, browser-use |
-| データ / インフラ | PostgreSQL, Redis, Docker, Linux, Nginx, Git, GitHub Actions, pytest |
-| クラウド / AWS | EC2（コンピュート）、VPC（ネットワーク）、Security Groups（ファイアウォール）、Systems Manager（インスタンス管理） |
+| インフラ | Docker, AWS (EC2, VPC, Systems Manager), Linux, Nginx, Git, GitHub Actions, pytest |
 | IoT / ハードウェア | NVIDIA Jetson Orin Nano, Raspberry Pi 4/Pico W |
 
 ## 🗓️ 現在
