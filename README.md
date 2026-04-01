@@ -44,6 +44,9 @@ Direct access to my currently active applications and platforms.
    - **Technologies**: Python, TypeScript, PostgreSQL, Docker.
 
 ## 🎓 Education
+- **Keio University** — Graduate School of Media and Governance
+    - Master's Program in Cyber Informatics
+    - Kanagawa, Japan | April 2026 – Present
 - **Kanagawa Institute of Technology** (KAIT)
     - Faculty of Information Technology
     - Department of Information Network and Communication
@@ -64,7 +67,7 @@ Direct access to my currently active applications and platforms.
 - **Interning**: Identifying customer support requirements and developing a RAG-based chat system to address them.
 - **Building**: Improving the reliability and stability of AI agent execution in production environments.
 
-_Last updated: 2026-03-18_
+_Last updated: 2026-04-01_
 
 <details>
   <summary>日本語版（Japanese Version）</summary>
@@ -114,6 +117,9 @@ _Last updated: 2026-03-18_
    - **使用技術**: Python, TypeScript, PostgreSQL, Docker.
 
 ## 🎓 学歴
+- **慶應義塾大学** 湘南藤沢キャンパス（SFC）
+    - 政策・メディア研究科 サイバーインフォマティクス専攻 修士課程
+    - 神奈川県 | 2026年4月 – 現在
 - **神奈川工科大学**
     - 情報学部 情報ネットワーク・コミュニケーション学科
 - **University of North Alabama** — 交換留学プログラム修了
@@ -133,6 +139,6 @@ _Last updated: 2026-03-18_
 - **インターン**: カスタマーサポートに求められる要件を把握し、RAGチャットシステムの設計・開発に従事。
 - **開発**: 本番環境でのAIエージェントの安定稼働・信頼性向上に取り組んでいる。
 
-_Last updated: 2026-03-18_
+_Last updated: 2026-04-01_
 
 </details>
