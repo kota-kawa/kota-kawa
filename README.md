@@ -26,7 +26,7 @@ Developed a **Multi-Agent Orchestration System** for my graduation research, int
 Direct access to my currently active applications and platforms.
 
 - **[Yorozu-no-Madoguchi]** (https://chat.project-kk.com/) — *AI Concierge Window (Multi-Agent System).*
-- **[ChatCore-AI]** (https://chatcore-ai.com/) — *Full-stack AI Chat Platform.*
+- **[ChatCore-AI]** (https://chatcore-ai.com/) — *Full-stack AI Chat Platform & Prompt Sharing.*
 - **[FS-QR]** (https://fs-qr.net/) — *File Sharing & QR Code Generator.*
 
 ## ⭐ Highlights
@@ -67,7 +67,7 @@ Direct access to my currently active applications and platforms.
 - **Interning**: Identifying customer support requirements and developing a RAG-based chat system to address them.
 - **Building**: Improving the reliability and stability of AI agent execution in production environments.
 
-_Last updated: 2026-04-01_
+_Last updated: 2026-04-06_
 
 <details>
   <summary>日本語版（Japanese Version）</summary>
@@ -99,7 +99,7 @@ _Last updated: 2026-04-01_
 現在実際にアクセスして利用可能なサービスです。
 
 - **[よろずの窓口]** (https://chat.project-kk.com/) — *AIコンシェルジュ（マルチエージェント）。*
-- **[ChatCore-AI]** (https://chatcore-ai.com/) — *フルスタックAIチャット基盤。*
+- **[ChatCore-AI]** (https://chatcore-ai.com/) — *フルスタックAIチャット基盤&プロンプト共有。*
 - **[FS-QR]** (https://fs-qr.net/) — *ファイル共有 & QR。*
 
 ## ⭐ 代表作
@@ -139,6 +139,6 @@ _Last updated: 2026-04-01_
 - **インターン**: カスタマーサポートに求められる要件を把握し、RAGチャットシステムの設計・開発に従事。
 - **開発**: 本番環境でのAIエージェントの安定稼働・信頼性向上に取り組んでいる。
 
-_Last updated: 2026-04-01_
+_Last updated: 2026-04-06_
 
 </details>
