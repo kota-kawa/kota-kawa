@@ -39,9 +39,9 @@ Direct access to my currently active applications and platforms.
    - **Overview**: A full-stack chat system with email authentication, persistent conversations, and prompt sharing. Integrates Groq and Gemini.
    - **Technologies**: Python (FastAPI), Next.js, PostgreSQL, Docker.
 
-3) **[Scheduler-Agent](https://github.com/kota-kawa/Scheduler-Agent)** — *Smart schedule management via chat.*
-   - **Overview**: An AI-driven assistant for managing schedules and tasks through natural language chat. Supports multiple LLMs (OpenAI, Gemini, Claude, Groq).
-   - **Technologies**: Python, TypeScript, PostgreSQL, Docker.
+3) **[Symphony Agent Conductor](https://github.com/kota-kawa/Scheduler-Agent)** — *(Autonomous Orchestration Platform)*
+   - **Overview**: An autonomous orchestration platform using LangGraph to coordinate specialized agents (Browser automation, IoT control, RAG) for seamless interaction between digital tasks and physical device control.
+   - **Technologies**: Python, Flask, LangGraph, browser-use, IoT (Jetson/Pi), OpenAI/Gemini.
 
 ## 🎓 Education
 - **Keio University** — Graduate School of Media and Governance
@@ -51,7 +51,7 @@ Direct access to my currently active applications and platforms.
     - Faculty of Information Technology
     - Department of Information Network and Communication
 - **University of North Alabama** — Exchange Program Completed
-    - Alabama, USA | June 2023 – May 2024
+    - Alabama, USA | May 2023 – May 2024
 
 ## 🧰 Tech Stack
 
@@ -64,10 +64,10 @@ Direct access to my currently active applications and platforms.
 | IoT / Hardware | NVIDIA Jetson Orin Nano, Raspberry Pi 4/Pico W |
 
 ## 🗓️ Now
-- **Interning**: Identifying customer support requirements and developing a RAG-based chat system to address them.
+- **Building**: A unified chat interface (inspired by OpenClaw & Sakana AI's The AI Scientist) for browser-to-OS tasks on Ubuntu via natural language, with permission management and execution control for safe, practical agent deployment.
 - **Building**: Improving the reliability and stability of AI agent execution in production environments.
 
-_Last updated: 2026-04-06_
+_Last updated: 2026-04-15_
 
 <details>
   <summary>日本語版（Japanese Version）</summary>
@@ -112,9 +112,9 @@ _Last updated: 2026-04-06_
    - **概要**: メール認証、永続チャット、プロンプト共有を備えたフルスタックAIチャットシステム。GroqとGeminiを統合。
    - **使用技術**: Python (FastAPI), Next.js, PostgreSQL, Docker.
 
-3) **[Scheduler-Agent](https://github.com/kota-kawa/Scheduler-Agent)** — *チャットで予定管理*
-   - **概要**: 自然言語のチャットで予定やタスクを管理できるAIアシスタント。複数LLM（OpenAI, Gemini, Claude, Groq）の切り替えに対応。
-   - **使用技術**: Python, TypeScript, PostgreSQL, Docker.
+3) **[Symphony Agent Conductor](https://github.com/kota-kawa/Scheduler-Agent)** — *（自律型オーケストレーションプラットフォーム）*
+   - **概要**: LangGraphを用いて専門エージェント（ブラウザ操作、IoT制御、RAG）を統合する自律型オーケストレーションプラットフォーム。デジタルタスクと物理デバイス制御のシームレスな連携を実現。
+   - **使用技術**: Python, Flask, LangGraph, browser-use, IoT (Jetson/Pi), OpenAI/Gemini.
 
 ## 🎓 学歴
 - **慶應義塾大学** 湘南藤沢キャンパス（SFC）
@@ -123,7 +123,7 @@ _Last updated: 2026-04-06_
 - **神奈川工科大学**
     - 情報学部 情報ネットワーク・コミュニケーション学科
 - **University of North Alabama** — 交換留学プログラム修了
-    - アラバマ州, 米国 | 2023年6月 – 2024年5月
+    - アラバマ州, 米国 | 2023年5月 – 2024年5月
 
 ## 🧰 技術スタック
 
@@ -136,9 +136,9 @@ _Last updated: 2026-04-06_
 | IoT / ハードウェア | NVIDIA Jetson Orin Nano, Raspberry Pi 4/Pico W |
 
 ## 🗓️ 現在
-- **インターン**: カスタマーサポートに求められる要件を把握し、RAGチャットシステムの設計・開発に従事。
+- **開発**: OpenClaw・AI Scientistに着想を得た統合チャットインターフェースを開発。Ubuntu上でブラウザからOS操作まで自然言語で制御し、パーミッション管理と実行制御で安全性と実用性を両立したエージェント基盤を設計。
 - **開発**: 本番環境でのAIエージェントの安定稼働・信頼性向上に取り組んでいる。
 
-_Last updated: 2026-04-06_
+_Last updated: 2026-04-15_
 
 </details>
