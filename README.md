@@ -44,7 +44,7 @@ Direct access to my currently active applications and platforms.
    - **Technologies**: Python, Flask, LangGraph, browser-use, IoT (Jetson/Pi), OpenAI/Gemini.
 
 ## 🎓 Education
-- **Keio University** — Graduate School of Media and Governance
+- **Keio University, Graduate School of Media and Governance**
     - Master's Program in Cyber Informatics
     - Kanagawa, Japan | April 2026 – Present
 - **Kanagawa Institute of Technology** (KAIT)
@@ -117,7 +117,7 @@ _Last updated: 2026-04-15_
    - **使用技術**: Python, Flask, LangGraph, browser-use, IoT (Jetson/Pi), OpenAI/Gemini.
 
 ## 🎓 学歴
-- **慶應義塾大学** 湘南藤沢キャンパス（SFC）
+- **慶應義塾大学大学院** 湘南藤沢キャンパス（SFC）
     - 政策・メディア研究科 サイバーインフォマティクス専攻 修士課程
     - 神奈川県 | 2026年4月 – 現在
 - **神奈川工科大学**
