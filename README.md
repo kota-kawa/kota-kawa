@@ -39,7 +39,7 @@ Direct access to my currently active applications and platforms.
    - **Overview**: A full-stack chat system with email authentication, persistent conversations, and prompt sharing. Integrates Groq and Gemini.
    - **Technologies**: Python (FastAPI), Next.js, PostgreSQL, Docker.
 
-3) **[Symphony Agent Conductor](https://github.com/kota-kawa/Scheduler-Agent)** — *(Autonomous Orchestration Platform)*
+3) **[Symphony Agent Conductor](https://github.com/kota-kawa/Symphony-Agent-Conductor)** — *(Autonomous Orchestration Platform)*
    - **Overview**: An autonomous orchestration platform using LangGraph to coordinate specialized agents (Browser automation, IoT control, RAG) for seamless interaction between digital tasks and physical device control.
    - **Technologies**: Python, Flask, LangGraph, browser-use, IoT (Jetson/Pi), OpenAI/Gemini.
 
@@ -112,7 +112,7 @@ _Last updated: 2026-04-15_
    - **概要**: メール認証、永続チャット、プロンプト共有を備えたフルスタックAIチャットシステム。GroqとGeminiを統合。
    - **使用技術**: Python (FastAPI), Next.js, PostgreSQL, Docker.
 
-3) **[Symphony Agent Conductor](https://github.com/kota-kawa/Scheduler-Agent)** — *（自律型オーケストレーションプラットフォーム）*
+3) **[Symphony Agent Conductor](https://github.com/kota-kawa/Symphony-Agent-Conductor)** — *（自律型オーケストレーションプラットフォーム）*
    - **概要**: LangGraphを用いて専門エージェント（ブラウザ操作、IoT制御、RAG）を統合する自律型オーケストレーションプラットフォーム。デジタルタスクと物理デバイス制御のシームレスな連携を実現。
    - **使用技術**: Python, Flask, LangGraph, browser-use, IoT (Jetson/Pi), OpenAI/Gemini.
 
