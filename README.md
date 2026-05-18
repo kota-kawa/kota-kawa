@@ -64,10 +64,10 @@ Direct access to my currently active applications and platforms.
 | IoT / Hardware | NVIDIA Jetson Orin Nano, Raspberry Pi 4/Pico W |
 
 ## 🗓️ Now
-- **Building**: A unified chat interface (inspired by OpenClaw & Sakana AI's The AI Scientist) for browser-to-OS tasks on Ubuntu via natural language, with permission management and execution control for safe, practical agent deployment.
+- **Building**: A unified chat interface (inspired by OpenClaw & Hermes Agent) for browser-to-OS tasks on Ubuntu via natural language, with permission management and execution control for safe, practical agent deployment.
 - **Building**: Improving the reliability and stability of AI agent execution in production environments.
 
-_Last updated: 2026-04-15_
+_Last updated: 2026-05-18_
 
 <details>
   <summary>日本語版（Japanese Version）</summary>
@@ -136,9 +136,9 @@ _Last updated: 2026-04-15_
 | IoT / ハードウェア | NVIDIA Jetson Orin Nano, Raspberry Pi 4/Pico W |
 
 ## 🗓️ 現在
-- **開発**: OpenClaw・AI Scientistに着想を得た統合チャットインターフェースを開発。Ubuntu上でブラウザからOS操作まで自然言語で制御し、パーミッション管理と実行制御で安全性と実用性を両立したエージェント基盤を設計。
+- **開発**: OpenClaw・Hermes Agentに着想を得た統合チャットインターフェースを開発。Ubuntu上でブラウザからOS操作まで自然言語で制御し、パーミッション管理と実行制御で安全性と実用性を両立したエージェント基盤を設計。
 - **開発**: 本番環境でのAIエージェントの安定稼働・信頼性向上に取り組んでいる。
 
-_Last updated: 2026-04-15_
+_Last updated: 2026-05-18_
 
 </details>
