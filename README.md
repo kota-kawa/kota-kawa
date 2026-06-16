@@ -62,6 +62,7 @@ Direct access to my currently active applications and platforms.
 | AI / LLM Engineering | RAG, Multi-Agent Systems, LangChain, LangGraph, browser-use |
 | Infrastructure | Docker, AWS (EC2, VPC, Systems Manager), Linux, Nginx, Git, GitHub Actions, pytest |
 | IoT / Hardware | NVIDIA Jetson Orin Nano, Raspberry Pi 4/Pico W |
+| AI Tools | Codex, Claude Code, NotebookLM, Antigravity, Gemini, ChatGPT, Claude |
 
 ## 🗓️ Now
 - **Building**: A unified chat interface (inspired by OpenClaw & Hermes Agent) for browser-to-OS tasks on Ubuntu via natural language, with permission management and execution control for safe, practical agent deployment.
@@ -134,6 +135,7 @@ _Last updated: 2026-05-18_
 | AI / LLM エンジニアリング | RAG, Multi-Agent Systems, LangChain, LangGraph, browser-use |
 | インフラ | Docker, AWS (EC2, VPC, Systems Manager), Linux, Nginx, Git, GitHub Actions, pytest |
 | IoT / ハードウェア | NVIDIA Jetson Orin Nano, Raspberry Pi 4/Pico W |
+| AI ツール | Codex, Claude Code, NotebookLM, Antigravity, Gemini, ChatGPT, Claude |
 
 ## 🗓️ 現在
 - **開発**: OpenClaw・Hermes Agentに着想を得た統合チャットインターフェースを開発。Ubuntu上でブラウザからOS操作まで自然言語で制御し、パーミッション管理と実行制御で安全性と実用性を両立したエージェント基盤を設計。
