@@ -5,7 +5,7 @@
 
 As a graduate student, I specialize in building intuitive AI Agents that interact with the physical world and daily life. My background in Art & Design allows me to craft superior user experiences, while my technical expertise ensures robust system architecture.
 
-**Vision**: I aim to implement AI agents in society to foster a world where human communication flourishes. By delegating daily tasks to AI, I want to create a society where people can truly focus on meaningful, face-to-face interactions.
+**Vision**: I aim to implement AI agents in society to foster a world where human communication flourishes. I want AI to be woven naturally into everyday life — present in the robots and displays we pass simply by walking through the city. By delegating daily tasks to AI, I want to create a society where people can truly focus on meaningful, face-to-face interactions.
 
 - **Focus**: LLM Agents, Browser Agent, RAG, Edge AI, UI/UX Design.
 - **Location**: Japan | **Languages**: Japanese (Native) / English
@@ -67,7 +67,7 @@ Direct access to my currently active applications and platforms.
 - **Building**: A unified chat interface (inspired by OpenClaw & Hermes Agent) for browser-to-OS tasks on Ubuntu via natural language, with permission management and execution control for safe, practical agent deployment.
 - **Building**: Improving the reliability and stability of AI agent execution in production environments.
 
-_Last updated: 2026-07-06_
+_Last updated: 2026-07-08_
 
 <details>
   <summary>日本語版（Japanese Version）</summary>
@@ -78,7 +78,7 @@ _Last updated: 2026-07-06_
 大学院でLLMを用いたAIエージェントの研究をしています。
 **Art/Design** のバックグラウンドを持ち、優れた **UI/UX** と堅牢な **バックエンドロジック** の両方を兼ね備えたエージェント開発が得意です。
 
-**Vision**: AIエージェントの社会実装を通じて、人同士のコミュニケーションがより促進される豊かな社会の実現を目指しています。「日常のタスクをAIに委ね、人が対面でのコミュニケーションに集中できる社会」を作ることが私の目標です。
+**Vision**: AIエージェントの社会実装を通じて、人同士のコミュニケーションがより促進される豊かな社会の実現を目指しています。街を歩けばロボットやディスプレイなど、AIが当たり前のように生活に溶け込んでいる——そんな社会を作りたいと考えています。「日常のタスクをAIに委ね、人が対面でのコミュニケーションに集中できる社会」を実現することが私の目標です。
 
 - **専門領域**: LLM Agents, Browser Agent, RAG, Edge AI, UI/UX Design.
 - **拠点**: 日本 | **言語**: 日本語（母国語）/ 英語
@@ -139,6 +139,6 @@ _Last updated: 2026-07-06_
 - **開発**: OpenClaw・Hermes Agentに着想を得た統合チャットインターフェースを開発。Ubuntu上でブラウザからOS操作まで自然言語で制御し、パーミッション管理と実行制御で安全性と実用性を両立したエージェント基盤を設計。
 - **開発**: 本番環境でのAIエージェントの安定稼働・信頼性向上に取り組んでいる。
 
-_Last updated: 2026-07-06_
+_Last updated: 2026-07-08_
 
 </details>
