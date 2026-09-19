@@ -38,9 +38,9 @@ Direct access to my currently active applications and platforms.
    - **Overview**: A full-stack chat system with email authentication, persistent conversations, and prompt sharing. Integrates Groq and Gemini.
    - **Technologies**: Python (FastAPI), Next.js, PostgreSQL, Docker.
 
-3) **[Symphony Agent Conductor](https://github.com/kota-kawa/Symphony-Agent-Conductor)** — *(Autonomous Orchestration Platform)*
-   - **Overview**: An autonomous orchestration platform using LangGraph to coordinate specialized agents (Browser automation, IoT control, RAG) for seamless interaction between digital tasks and physical device control.
-   - **Technologies**: Python, Flask, LangGraph, browser-use, IoT (Jetson/Pi), OpenAI/Gemini.
+3) **[Marmo-Core](https://github.com/kota-kawa/Marmo-Core)** — *(Lightweight AI-Agent Kernel)*
+   - **Overview**: A lightweight Python kernel for registering, retrieving, selecting, and safely executing AI-agent resources. It provides policy-gated execution, audit trails, human approval, recovery, a CLI, and integrations with OpenAI-compatible and Anthropic models.
+   - **Technologies**: Python, LLMs, retrieval, policy and security, CLI, JSON resource definitions.
 
 ## 🎓 Education
 - **Keio University, Graduate School of Media and Governance**
@@ -111,9 +111,9 @@ _Last updated: 2026-07-08_
    - **概要**: メール認証、永続チャット、プロンプト共有を備えたフルスタックAIチャットシステム。GroqとGeminiを統合。
    - **使用技術**: Python (FastAPI), Next.js, PostgreSQL, Docker.
 
-3) **[Symphony Agent Conductor](https://github.com/kota-kawa/Symphony-Agent-Conductor)** — *（自律型オーケストレーションプラットフォーム）*
-   - **概要**: LangGraphを用いて専門エージェント（ブラウザ操作、IoT制御、RAG）を統合する自律型オーケストレーションプラットフォーム。デジタルタスクと物理デバイス制御のシームレスな連携を実現。
-   - **使用技術**: Python, Flask, LangGraph, browser-use, IoT (Jetson/Pi), OpenAI/Gemini.
+3) **[Marmo-Core](https://github.com/kota-kawa/Marmo-Core)** — *（軽量AIエージェント・カーネル）*
+   - **概要**: AIエージェント用リソースの登録・検索・選択・安全な実行を担う軽量なPythonカーネル。ポリシーによる実行制御、監査ログ、人による承認、リカバリ、CLI、OpenAI互換およびAnthropicモデルとの連携を提供。
+   - **使用技術**: Python, LLM, Retrieval, Policy / Security, CLI, JSONリソース定義.
 
 ## 🎓 学歴
 - **慶應義塾大学大学院** 湘南藤沢キャンパス（SFC）
