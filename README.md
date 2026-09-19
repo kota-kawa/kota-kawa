@@ -64,8 +64,7 @@ Direct access to my currently active applications and platforms.
 | AI Tools | Codex, Claude Code, NotebookLM, Antigravity, Gemini, ChatGPT, Claude |
 
 ## 🗓️ Now
-- **Building**: A unified chat interface (inspired by OpenClaw & Hermes Agent) for browser-to-OS tasks on Ubuntu via natural language, with permission management and execution control for safe, practical agent deployment.
-- **Building**: Improving the reliability and stability of AI agent execution in production environments.
+- **Researching / Building**: Marmo-Core — a safe AI-agent execution kernel based on unified routing of Memory, Skill, Tool, and Agent resources.
 
 _Last updated: 2026-09-19_
 
@@ -136,8 +135,7 @@ _Last updated: 2026-09-19_
 | AI ツール | Codex, Claude Code, NotebookLM, Antigravity, Gemini, ChatGPT, Claude |
 
 ## 🗓️ 現在
-- **開発**: OpenClaw・Hermes Agentに着想を得た統合チャットインターフェースを開発。Ubuntu上でブラウザからOS操作まで自然言語で制御し、パーミッション管理と実行制御で安全性と実用性を両立したエージェント基盤を設計。
-- **開発**: 本番環境でのAIエージェントの安定稼働・信頼性向上に取り組んでいる。
+- **研究・開発**: Marmo-Core — Memory、Skill、Tool、Agentリソースの統合ルーティングに基づく、安全なAIエージェント実行カーネル。
 
 _Last updated: 2026-09-19_
 
