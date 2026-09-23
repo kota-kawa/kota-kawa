@@ -28,6 +28,8 @@ Beyond candidate retrieval, I evaluate the selection pipeline across dependency 
 
 I also study how agents safely execute selected resources, maintain state and context, and recover from failures.
 
+I am implementing these research areas in **Marmo-Core**, a kernel for routing and safely executing agent resources.
+
 ## 🎓 Research Achievements
 
 - **FIT 2025 (24th Forum on Information Technology, September 4, 2025)** — Presented [“On Database Structures for Retrieval-Augmented Generation in AI Chatbots”](https://www.ieice.org/publications/conference-FIT-DVDs/FIT2025/data/html/program/pdf/F-029.pdf) (F-029). I compared document formats for building vector databases from FAQ data. JSON and JSONL achieved the highest success rate in the 100-question evaluation, while CSV performed best in the 1,000-question evaluation, showing that the effective format can depend on dataset scale. ([Program](https://www.ipsj.or.jp/event/fit/fit2025/abstract/data/html/program/f.html))
@@ -84,7 +86,7 @@ Direct access to my currently active applications and platforms.
 | AI Tools | Codex, Claude Code, NotebookLM, Antigravity, Gemini, ChatGPT, Claude |
 
 ## 🗓️ Now
-- **Researching / Building**: Implementing my Object Routing research in Marmo-Core, a safe execution kernel for Memory, Skill, Tool, and Agent resources.
+- **Current project**: [Marmo-Core](https://github.com/kota-kawa/Marmo-Core)
 
 _Last updated: 2026-09-23_
 
@@ -118,6 +120,8 @@ AIエージェントの社会実装を通じて、人同士のコミュニケー
 ### AIエージェント基盤
 
 また、選択したリソースの安全な実行、エージェントの状態やコンテキストの維持、障害からの回復についても研究しています。
+
+これらの研究成果を、エージェント用リソースのルーティングと安全な実行を担う **Marmo-Core** に実装しています。
 
 ## 🎓 研究実績
 
@@ -174,7 +178,7 @@ AIエージェントの社会実装を通じて、人同士のコミュニケー
 | AI ツール | Codex, Claude Code, NotebookLM, Antigravity, Gemini, ChatGPT, Claude |
 
 ## 🗓️ 現在
-- **研究・開発**: Object Routingの研究成果を、Memory / Skill / Tool / Agentのルーティングと安全な実行を担うMarmo-Coreに実装しています。
+- **現在のプロジェクト**: [Marmo-Core](https://github.com/kota-kawa/Marmo-Core)
 
 _Last updated: 2026-09-23_
 
