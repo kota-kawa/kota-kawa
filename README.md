@@ -22,7 +22,7 @@ I aim to implement AI agents in society to foster a world where human communicat
 
 I study Object Routing: selecting a set of task-relevant, executable resources from large catalogs of Memory, Skills, Tools, and Agents.
 
-Beyond candidate retrieval, I evaluate the selection pipeline across dependency resolution, conflict handling, permission checks, decisions to abstain or request elevated permissions, and hierarchical routing. I am implementing this research in **Marmo-Core**, a kernel for routing and safely executing agent resources.
+Beyond candidate retrieval, I evaluate the selection pipeline across dependency resolution, conflict handling, permission checks, decisions to abstain or request elevated permissions, and hierarchical routing.
 
 ## 🎓 Research Achievements
 
@@ -79,6 +79,9 @@ Direct access to my currently active applications and platforms.
 | IoT / Hardware | NVIDIA Jetson Orin Nano, Raspberry Pi 4/Pico W |
 | AI Tools | Codex, Claude Code, NotebookLM, Antigravity, Gemini, ChatGPT, Claude |
 
+## 🗓️ Now
+- **Researching / Building**: Implementing my Object Routing research in Marmo-Core, a safe execution kernel for Memory, Skill, Tool, and Agent resources.
+
 _Last updated: 2026-09-23_
 
 <details>
@@ -106,7 +109,7 @@ AIエージェントの社会実装を通じて、人同士のコミュニケー
 
 大規模なMemory / Skill / Tool / Agentのカタログから、タスクに適合し、実行可能なリソース集合を選択するObject Routingを研究しています。
 
-候補検索にとどまらず、依存関係や競合の処理、権限の判定、棄権や権限昇格要求の判断、階層ルーティングまで含めた選択パイプライン全体を評価しています。この研究成果を、エージェント用リソースのルーティングと安全な実行を担う **Marmo-Core** に実装しています。
+候補検索にとどまらず、依存関係や競合の処理、権限の判定、棄権や権限昇格要求の判断、階層ルーティングまで含めた選択パイプライン全体を評価しています。
 
 ## 🎓 研究実績
 
@@ -161,6 +164,9 @@ AIエージェントの社会実装を通じて、人同士のコミュニケー
 | インフラ | Docker, AWS (EC2, VPC, Systems Manager), Linux, Nginx, Git, GitHub Actions, pytest |
 | IoT / ハードウェア | NVIDIA Jetson Orin Nano, Raspberry Pi 4/Pico W |
 | AI ツール | Codex, Claude Code, NotebookLM, Antigravity, Gemini, ChatGPT, Claude |
+
+## 🗓️ 現在
+- **研究・開発**: Object Routingの研究成果を、Memory / Skill / Tool / Agentのルーティングと安全な実行を担うMarmo-Coreに実装しています。
 
 _Last updated: 2026-09-23_
 
