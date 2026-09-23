@@ -43,18 +43,18 @@ Direct access to my currently active applications and platforms.
 - **[FS-QR](https://fs-qr.net/)** — *File Sharing & QR Code Generator.*
 
 ## ⭐ Highlights
-1) **[Browser-Agent](https://github.com/kota-kawa/Browser-Agent)** — *Control the web with natural language.*
-   - **Overview**: A browser automation agent with a FastAPI web interface. Executes tasks via natural language instructions with real-time monitoring via noVNC.
-   - **Performance**: WebArena Shopping task success rate: 32.6%.
-   - **Technologies**: Python, FastAPI, TypeScript, Docker.
-
-2) **[ChatCore-AI](https://github.com/kota-kawa/ChatCore-AI)** ([Live](https://chatcore-ai.com/)) — *Production AI chat platform.*
+1) **[ChatCore-AI](https://github.com/kota-kawa/ChatCore-AI)** ([Live](https://chatcore-ai.com/)) — *Production AI chat platform.*
    - **Overview**: Built with FastAPI and Next.js, this live platform supports streaming responses from multiple LLMs, web research and tool use, Tasks and Skills, persistent context, prompt sharing, and generative UI. It also includes Redis-backed session management, usage and cost controls, SSE recovery, tests, and CI/CD, with ongoing improvements for production operation.
    - **Technologies**: Python, FastAPI, Next.js, React, TypeScript, PostgreSQL, Redis, Docker, Nginx, GitHub Actions, OpenAI, Anthropic, Groq.
 
-3) **[Marmo-Core](https://github.com/kota-kawa/Marmo-Core)** — *(Lightweight AI-Agent Kernel)*
+2) **[Marmo-Core](https://github.com/kota-kawa/Marmo-Core)** — *(Lightweight AI-Agent Kernel)*
    - **Overview**: A lightweight Python kernel for registering, retrieving, selecting, and safely executing AI-agent resources. It provides policy-gated execution, audit trails, human approval, recovery, a CLI, and integrations with OpenAI-compatible and Anthropic models.
    - **Technologies**: Python, LLMs, retrieval, policy and security, CLI, JSON resource definitions.
+
+3) **[Browser-Agent](https://github.com/kota-kawa/Browser-Agent)** — *Control the web with natural language.*
+   - **Overview**: A browser automation agent with a FastAPI web interface. Executes tasks via natural language instructions with real-time monitoring via noVNC.
+   - **Performance**: WebArena Shopping task success rate: 32.6%.
+   - **Technologies**: Python, FastAPI, TypeScript, Docker.
 
 ## 🎓 Education
 - **Keio University, Graduate School of Media and Governance**
@@ -128,18 +128,18 @@ _Last updated: 2026-09-23_
 - **[FS-QR](https://fs-qr.net/)** — *ファイル共有 & QR。*
 
 ## ⭐ 代表作
-1) **[Browser-Agent](https://github.com/kota-kawa/Browser-Agent)** — *自然言語でWebを操作する*
-   - **概要**: FastAPIベースのWebインターフェースを持つブラウザ自動操作エージェント。自然言語の指示でタスクを実行し、noVNCでリアルタイム監視が可能。
-   - **性能**: WebArena Shoppingタスク成功率: 32.6%。
-   - **使用技術**: Python, FastAPI, TypeScript, Docker.
-
-2) **[ChatCore-AI](https://github.com/kota-kawa/ChatCore-AI)** ([Live](https://chatcore-ai.com/)) — *本番運用中のAIチャットプラットフォーム*
+1) **[ChatCore-AI](https://github.com/kota-kawa/ChatCore-AI)** ([Live](https://chatcore-ai.com/)) — *本番運用中のAIチャットプラットフォーム*
    - **概要**: FastAPIとNext.jsで構築し、公開・運用しているAIチャットプラットフォーム。複数LLMのストリーミング応答、Web調査とツール利用、Task / Skill、永続コンテキスト、プロンプト共有、生成UIを実装。Redisによるセッション管理、利用量・コスト制御、SSEストリームの障害復旧に加え、テストとCI/CDも整備し、本番運用を継続的に改善。
    - **使用技術**: Python, FastAPI, Next.js, React, TypeScript, PostgreSQL, Redis, Docker, Nginx, GitHub Actions, OpenAI / Anthropic / Groq.
 
-3) **[Marmo-Core](https://github.com/kota-kawa/Marmo-Core)** — *（軽量AIエージェント・カーネル）*
+2) **[Marmo-Core](https://github.com/kota-kawa/Marmo-Core)** — *（軽量AIエージェント・カーネル）*
    - **概要**: AIエージェント用リソースの登録・検索・選択・安全な実行を担う軽量なPythonカーネル。ポリシーによる実行制御、監査ログ、人による承認、リカバリ、CLI、OpenAI互換およびAnthropicモデルとの連携を提供。
    - **使用技術**: Python, LLM, Retrieval, Policy / Security, CLI, JSONリソース定義.
+
+3) **[Browser-Agent](https://github.com/kota-kawa/Browser-Agent)** — *自然言語でWebを操作する*
+   - **概要**: FastAPIベースのWebインターフェースを持つブラウザ自動操作エージェント。自然言語の指示でタスクを実行し、noVNCでリアルタイム監視が可能。
+   - **性能**: WebArena Shoppingタスク成功率: 32.6%。
+   - **使用技術**: Python, FastAPI, TypeScript, Docker.
 
 ## 🎓 学歴
 - **慶應義塾大学大学院** 湘南藤沢キャンパス（SFC）
