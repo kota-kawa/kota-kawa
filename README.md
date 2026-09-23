@@ -40,7 +40,7 @@ My current master's research extends this work to AI-agent resource routing and 
 Direct access to my currently active applications and platforms.
 
 - **[ChatCore-AI](https://chatcore-ai.com/)** — *Production AI chat platform with multi-model streaming and web tools.*
-- **[FS-QR]** (https://fs-qr.net/) — *File Sharing & QR Code Generator.*
+- **[FS-QR](https://fs-qr.net/)** — *File Sharing & QR Code Generator.*
 
 ## ⭐ Highlights
 1) **[Browser-Agent](https://github.com/kota-kawa/Browser-Agent)** — *Control the web with natural language.*
@@ -125,7 +125,7 @@ _Last updated: 2026-09-23_
 現在実際にアクセスして利用可能なサービスです。
 
 - **[ChatCore-AI](https://chatcore-ai.com/)** — *複数LLMのストリーミングとWebツールに対応した本番運用AIチャットプラットフォーム。*
-- **[FS-QR]** (https://fs-qr.net/) — *ファイル共有 & QR。*
+- **[FS-QR](https://fs-qr.net/)** — *ファイル共有 & QR。*
 
 ## ⭐ 代表作
 1) **[Browser-Agent](https://github.com/kota-kawa/Browser-Agent)** — *自然言語でWebを操作する*
