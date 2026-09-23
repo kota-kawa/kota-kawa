@@ -86,7 +86,7 @@ Direct access to my currently active applications and platforms.
 | AI Tools | Codex, Claude Code, NotebookLM, Antigravity, Gemini, ChatGPT, Claude |
 
 ## 🗓️ Now
-- **Researching / Building**: I am developing [Marmo-Core](https://github.com/kota-kawa/Marmo-Core), focusing on its resource selection pipeline and execution controls.
+- **Researching / Building**: I am developing Marmo-Core, focusing on its resource selection pipeline and execution controls.
 
 _Last updated: 2026-09-23_
 
@@ -178,7 +178,7 @@ AIエージェントの社会実装を通じて、人同士のコミュニケー
 | AI ツール | Codex, Claude Code, NotebookLM, Antigravity, Gemini, ChatGPT, Claude |
 
 ## 🗓️ 現在
-- **研究・開発**: 現在は、[Marmo-Core](https://github.com/kota-kawa/Marmo-Core)のリソース選択パイプラインと実行制御の開発を進めています。
+- **研究・開発**: 現在は、Marmo-Coreのリソース選択パイプラインと実行制御の開発を進めています。
 
 _Last updated: 2026-09-23_
 
