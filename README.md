@@ -9,10 +9,12 @@ My current focus is less on LLMs themselves and more on the foundational technol
 
 Alongside research, I build, launch, and operate web services including ChatCore-AI. I develop the backend, frontend, and infrastructure needed to run AI features reliably in production.
 
-**Vision**: I aim to implement AI agents in society to foster a world where human communication flourishes. I want AI to be woven naturally into everyday life — present in the robots and displays we pass simply by walking through the city. By delegating daily tasks to AI, I want to create a society where people can truly focus on meaningful, face-to-face interactions.
-
 - **Focus**: Object Routing, AI Agent Infrastructure, Multi-Agent Systems, RAG, Browser Agents, UI/UX.
 - **Location**: Japan | **Languages**: Japanese (Native) / English
+
+## 🌏 Vision
+
+I aim to implement AI agents in society to foster a world where human communication flourishes. I want AI to be woven naturally into everyday life — present in the robots and displays we pass simply by walking through the city. By delegating daily tasks to AI, I want to create a society where people can truly focus on meaningful, face-to-face interactions.
 
 ## 🔬 Current Research
 
@@ -94,10 +96,12 @@ _Last updated: 2026-09-23_
 
 研究だけでなく、ChatCore-AIをはじめとしたWebサービスを実際に公開・運用し、AI機能を本番環境で安定して動かすためのバックエンド・フロントエンド・インフラまで一貫して開発しています。
 
-**Vision**: AIエージェントの社会実装を通じて、人同士のコミュニケーションがより促進される豊かな社会の実現を目指しています。街を歩けばロボットやディスプレイなど、AIが当たり前のように生活に溶け込んでいる——そんな社会を作りたいと考えています。「日常のタスクをAIに委ね、人が対面でのコミュニケーションに集中できる社会」を実現することが私の目標です。
-
 - **専門領域**: Object Routing, AIエージェント基盤, マルチエージェントシステム, RAG, Browser Agent, UI/UX Design.
 - **拠点**: 日本 | **言語**: 日本語（母国語）/ 英語
+
+## 🌏 ビジョン
+
+AIエージェントの社会実装を通じて、人同士のコミュニケーションがより促進される豊かな社会の実現を目指しています。街を歩けばロボットやディスプレイなど、AIが当たり前のように生活に溶け込んでいる——そんな社会を作りたいと考えています。「日常のタスクをAIに委ね、人が対面でのコミュニケーションに集中できる社会」を実現することが私の目標です。
 
 ## 🔬 現在の研究
 
