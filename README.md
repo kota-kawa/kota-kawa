@@ -1,7 +1,7 @@
 > 一番下に日本語版もあります
 
 # Hi, I'm Kota Kawagoe 👋
-**AI Agent Researcher / Software Engineer** — Bridging the gap between **Art/Design (UI/UX)** and **Backend Logic**.
+**AI Agent Researcher / Software Engineer** — Researching how AI agents select and safely execute resources, and running AI services in production.
 
 At Keio University Graduate School of Media and Governance, I research and develop AI agents.
 
@@ -66,7 +66,7 @@ Direct access to my currently active applications and platforms.
 
 ## 🎓 Education
 - **Keio University, Graduate School of Media and Governance**
-    - Master's Program in Cyber Informatics
+    - Master's Program, Cyber Informatics (CI) Program
     - Kanagawa, Japan | April 2026 – Present
 - **Kanagawa Institute of Technology** (KAIT)
     - Faculty of Information Technology
@@ -94,7 +94,7 @@ _Last updated: 2026-09-23_
   <summary>日本語版（Japanese Version）</summary>
 
 # こんにちは、川越 航太 (Kota Kawagoe) です 👋
-**AI Agent Researcher / Software Engineer** — **Art/Design (UI/UX)** と **バックエンドロジック** をつないでいます。
+**AI Agent Researcher / Software Engineer** — AIエージェントのリソース選択と安全な実行を研究し、AIサービスを本番環境で運用しています。
 
 慶應義塾大学大学院 政策・メディア研究科で、AIエージェントに関する研究・開発を行っています。
 
@@ -158,8 +158,8 @@ AIエージェントの社会実装を通じて、人同士のコミュニケー
    - **使用技術**: Python, FastAPI, TypeScript, Docker.
 
 ## 🎓 学歴
-- **慶應義塾大学大学院** 湘南藤沢キャンパス（SFC）
-    - 政策・メディア研究科 サイバーインフォマティクス専攻 修士課程
+- **慶應義塾大学大学院 政策・メディア研究科**（SFC）
+    - 修士課程 サイバーインフォマティクス（CI）プログラム
     - 神奈川県 | 2026年4月 – 現在
 - **神奈川工科大学**
     - 情報学部 情報ネットワーク・コミュニケーション学科
