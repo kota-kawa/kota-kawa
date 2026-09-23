@@ -28,7 +28,7 @@ Beyond candidate retrieval, I evaluate the selection pipeline across dependency 
 
 I also study how agents safely execute selected resources, maintain state and context, and recover from failures.
 
-I am implementing these research areas in **Marmo-Core**, a kernel for routing and safely executing agent resources.
+I am implementing these research areas in **[Marmo-Core](https://github.com/kota-kawa/Marmo-Core)**, a kernel for routing and safely executing agent resources.
 
 ## 🎓 Research Achievements
 
@@ -86,7 +86,7 @@ Direct access to my currently active applications and platforms.
 | AI Tools | Codex, Claude Code, NotebookLM, Antigravity, Gemini, ChatGPT, Claude |
 
 ## 🗓️ Now
-- **Current project**: [Marmo-Core](https://github.com/kota-kawa/Marmo-Core)
+- **Researching / Building**: I am developing [Marmo-Core](https://github.com/kota-kawa/Marmo-Core), focusing on its resource selection pipeline and execution controls.
 
 _Last updated: 2026-09-23_
 
@@ -121,7 +121,7 @@ AIエージェントの社会実装を通じて、人同士のコミュニケー
 
 また、選択したリソースの安全な実行、エージェントの状態やコンテキストの維持、障害からの回復についても研究しています。
 
-これらの研究成果を、エージェント用リソースのルーティングと安全な実行を担う **Marmo-Core** に実装しています。
+これらの研究成果を、エージェント用リソースのルーティングと安全な実行を担う **[Marmo-Core](https://github.com/kota-kawa/Marmo-Core)** に実装しています。
 
 ## 🎓 研究実績
 
@@ -178,7 +178,7 @@ AIエージェントの社会実装を通じて、人同士のコミュニケー
 | AI ツール | Codex, Claude Code, NotebookLM, Antigravity, Gemini, ChatGPT, Claude |
 
 ## 🗓️ 現在
-- **現在のプロジェクト**: [Marmo-Core](https://github.com/kota-kawa/Marmo-Core)
+- **研究・開発**: 現在は、[Marmo-Core](https://github.com/kota-kawa/Marmo-Core)のリソース選択パイプラインと実行制御の開発を進めています。
 
 _Last updated: 2026-09-23_
 
