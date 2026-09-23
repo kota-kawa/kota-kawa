@@ -79,16 +79,13 @@ Direct access to my currently active applications and platforms.
 | IoT / Hardware | NVIDIA Jetson Orin Nano, Raspberry Pi 4/Pico W |
 | AI Tools | Codex, Claude Code, NotebookLM, Antigravity, Gemini, ChatGPT, Claude |
 
-## 🗓️ Now
-- **Researching / Building**: Implementing my Object Routing research in Marmo-Core, a safe execution kernel for Memory, Skill, Tool, and Agent resources.
-
 _Last updated: 2026-09-23_
 
 <details>
   <summary>日本語版（Japanese Version）</summary>
 
 # こんにちは、川越 航太 (Kota Kawagoe) です 👋
-**AI Agent Researcher / Software Engineer** — **Art/Design (UI/UX)** と **バックエンドロジック**。
+**AI Agent Researcher / Software Engineer** — **Art/Design (UI/UX)** と **バックエンドロジック** をつないでいます。
 
 慶應義塾大学大学院 政策・メディア研究科で、AIエージェントに関する研究・開発を行っています。
 
@@ -164,9 +161,6 @@ AIエージェントの社会実装を通じて、人同士のコミュニケー
 | インフラ | Docker, AWS (EC2, VPC, Systems Manager), Linux, Nginx, Git, GitHub Actions, pytest |
 | IoT / ハードウェア | NVIDIA Jetson Orin Nano, Raspberry Pi 4/Pico W |
 | AI ツール | Codex, Claude Code, NotebookLM, Antigravity, Gemini, ChatGPT, Claude |
-
-## 🗓️ 現在
-- **研究・開発**: Object Routingの研究成果を、Memory / Skill / Tool / Agentのルーティングと安全な実行を担うMarmo-Coreに実装しています。
 
 _Last updated: 2026-09-23_
 
