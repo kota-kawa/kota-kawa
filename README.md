@@ -5,7 +5,7 @@
 
 At Keio University Graduate School of Media and Governance, I research and develop AI agents.
 
-My current focus is less on LLMs themselves and more on the foundational technologies that connect LLMs to real applications. I work on how agents select Memory / Skill / Tool / Agent resources, execute them safely, maintain state and context, and recover from failures.
+My current focus is less on LLMs themselves and more on the foundational technologies that connect LLMs to real applications.
 
 Alongside research, I build, launch, and operate web services including ChatCore-AI. I develop the backend, frontend, and infrastructure needed to run AI features reliably in production.
 
@@ -23,6 +23,10 @@ I aim to implement AI agents in society to foster a world where human communicat
 I study Object Routing: selecting a set of task-relevant, executable resources from large catalogs of Memory, Skills, Tools, and Agents.
 
 Beyond candidate retrieval, I evaluate the selection pipeline across dependency resolution, conflict handling, permission checks, decisions to abstain or request elevated permissions, and hierarchical routing.
+
+### Agent Infrastructure
+
+I also study how agents safely execute selected resources, maintain state and context, and recover from failures.
 
 ## 🎓 Research Achievements
 
@@ -92,7 +96,7 @@ _Last updated: 2026-09-23_
 
 慶應義塾大学大学院 政策・メディア研究科で、AIエージェントに関する研究・開発を行っています。
 
-現在は、LLMそのものよりも、LLMと実際のアプリケーションをつなぐ基盤技術に重点を置いています。エージェントが必要なMemory / Skill / Tool / Agentをどのように選択するか、安全に実行するか、状態やコンテキストをどのように維持するか、障害からどのように回復するかといったテーマに取り組んでいます。
+現在は、LLMそのものよりも、LLMと実際のアプリケーションをつなぐ基盤技術に重点を置いています。
 
 研究だけでなく、ChatCore-AIをはじめとしたWebサービスを実際に公開・運用し、AI機能を本番環境で安定して動かすためのバックエンド・フロントエンド・インフラまで一貫して開発しています。
 
@@ -110,6 +114,10 @@ AIエージェントの社会実装を通じて、人同士のコミュニケー
 大規模なMemory / Skill / Tool / Agentのカタログから、タスクに適合し、実行可能なリソース集合を選択するObject Routingを研究しています。
 
 候補検索にとどまらず、依存関係や競合の処理、権限の判定、棄権や権限昇格要求の判断、階層ルーティングまで含めた選択パイプライン全体を評価しています。
+
+### AIエージェント基盤
+
+また、選択したリソースの安全な実行、エージェントの状態やコンテキストの維持、障害からの回復についても研究しています。
 
 ## 🎓 研究実績
 
