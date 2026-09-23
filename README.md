@@ -24,9 +24,9 @@ Beyond candidate retrieval, I evaluate the selection pipeline across dependency 
 
 ## 🎓 Research Achievements
 
-For my undergraduate thesis, I developed a multi-agent system integrating specialist agents for browser use, RAG, scheduling, and IoT.
+- **FIT 2025 (24th Forum on Information Technology, September 4, 2025)** — Presented [“On Database Structures for Retrieval-Augmented Generation in AI Chatbots”](https://www.ieice.org/publications/conference-FIT-DVDs/FIT2025/data/html/program/pdf/F-029.pdf) (F-029). I compared document formats for building vector databases from FAQ data. JSON and JSONL achieved the highest success rate in the 100-question evaluation, while CSV performed best in the 1,000-question evaluation, showing that the effective format can depend on dataset scale. ([Program](https://www.ipsj.or.jp/event/fit/fit2025/abstract/data/html/program/f.html))
 
-By combining long-term and short-term memory, I improved the system's evaluation score by approximately **1.7×**. I presented this work at **NCSP'26** in Honolulu, USA.
+- **NCSP'26 (Honolulu, Hawaii, February 27–March 2, 2026; presentation on February 28)** — Gave an oral presentation in English on [“Development of Cooperative AI Agents for Improving the Efficiency of Household Tasks”](https://project-kk.com/static/research/NCSP-Presentation-EN.pdf). The system combined an orchestrator with four specialist agents—Browser, Lifestyle/RAG, Scheduler, and IoT—connected through MCP. Across 10 collaborative task scenarios, combining long- and short-term memory improved task completion by approximately **1.7×** and made confirmation questions unnecessary. ([Program](https://ncsp.jp/NCSP26/files/NCSP26_Sessions.pdf))
 
 My current master's research extends this work to AI-agent resource routing and safe execution infrastructure.
 
@@ -109,9 +109,9 @@ _Last updated: 2026-09-23_
 
 ## 🎓 研究実績
 
-学部の卒業研究では、Browser、RAG、Scheduler、IoTなどの専門エージェントを統合したマルチエージェントシステムを開発しました。
+- **FIT 2025（第24回情報科学技術フォーラム、2025年9月4日）** — [「RAGとしてAIChatBotに与えるデータベースの構造に関する一考察」](https://www.ieice.org/publications/conference-FIT-DVDs/FIT2025/data/html/program/pdf/F-029.pdf)（F-029）を発表。FAQデータからベクトルデータベースを構築する際のファイル形式を比較し、100問の評価ではJSON/JSONL、1,000問の評価ではCSVが最も高い成功率を示すなど、データ規模によって有効な形式が異なることを確認しました。([プログラム](https://www.ipsj.or.jp/event/fit/fit2025/abstract/data/html/program/f.html))
 
-長期・短期メモリを組み合わせ、システムの評価スコアを約 **1.7倍** に改善しました。この研究成果を **NCSP'26**（米国・ホノルル）で発表しました。
+- **NCSP'26（米国ハワイ州ホノルル、2026年2月27日〜3月2日、発表は2月28日）** — [「Development of Cooperative AI Agents for Improving the Efficiency of Household Tasks」](https://project-kk.com/static/research/NCSP-Presentation-EN.pdf)を英語で口頭発表。MCPで連携するOrchestratorと4種類の専門エージェント（Browser、Lifestyle/RAG、Scheduler、IoT）からなるシステムを開発しました。複数エージェントが協調する10ケースの評価で、長期・短期メモリの併用によりタスク達成率が約 **1.7倍** に向上し、確認質問も不要になりました。([プログラム](https://ncsp.jp/NCSP26/files/NCSP26_Sessions.pdf))
 
 現在の修士研究では卒業研究を発展させ、AIエージェントのリソースルーティングと安全な実行基盤を研究しています。
 
