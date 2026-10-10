@@ -41,6 +41,7 @@ My current master's research extends this work to AI-agent resource routing and 
 ## 🔗 Links
 - **Resume**: [https://github.com/kota-kawa/resume](https://github.com/kota-kawa/resume)
 - **Portfolio**: [https://project-kk.com/](https://project-kk.com/)
+- **Blog**: [https://blog.project-kk.com/](https://blog.project-kk.com/)
 - **LinkedIn**: [https://www.linkedin.com/in/kota-kawa/](https://www.linkedin.com/in/kota-kawa/)
 - **Email**: [kota7kawagoe@gmail.com](mailto:kota7kawagoe@gmail.com)
 
@@ -134,6 +135,7 @@ AIエージェントの社会実装を通じて、人同士のコミュニケー
 ## 🔗 リンク
 - **Resume**: [https://github.com/kota-kawa/resume](https://github.com/kota-kawa/resume)
 - **Portfolio**: [https://project-kk.com/](https://project-kk.com/)
+- **Blog**: [https://blog.project-kk.com/](https://blog.project-kk.com/)
 - **LinkedIn**: [https://www.linkedin.com/in/kota-kawa/](https://www.linkedin.com/in/kota-kawa/)
 - **Email**: [kota7kawagoe@gmail.com](mailto:kota7kawagoe@gmail.com)
 
