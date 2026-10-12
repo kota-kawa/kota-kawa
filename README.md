@@ -49,6 +49,7 @@ My current master's research extends this work to AI-agent resource routing and 
 Direct access to my currently active applications and platforms.
 
 - **[ChatCore-AI](https://chatcore-ai.com/)** — *Production AI chat platform with multi-model streaming and web tools.*
+- **[relua](https://relua.net/)** — *Job and event database for students, updated by AI agents over MCP.*
 - **[FS-QR](https://fs-qr.net/)** — *File Sharing & QR Code Generator.*
 
 ## ⭐ Highlights
@@ -60,7 +61,11 @@ Direct access to my currently active applications and platforms.
    - **Overview**: A lightweight Python kernel for registering, retrieving, selecting, and safely executing AI-agent resources. It provides policy-gated execution, audit trails, human approval, recovery, a CLI, and integrations with OpenAI-compatible and Anthropic models.
    - **Technologies**: Python, LLMs, retrieval, policy and security, CLI, JSON resource definitions.
 
-3) **[Browser-Agent](https://github.com/kota-kawa/Browser-Agent)** — *Control the web with natural language.*
+3) **[relua](https://github.com/kota-kawa/relua)** ([Live](https://relua.net/)) — *Job and event database updated by AI agents over MCP.*
+   - **Overview**: A live service for searching internship, recruitment, and event listings without logging in. It has no admin console: ChatGPT and Claude register and update data through 40 MCP tools. It includes a self-built OAuth 2.1 authorization server with dynamic client registration and PKCE, and applies defense in depth to every write through official-page allowlists, duplicate detection, idempotency, optimistic locking, and audit logs.
+   - **Technologies**: Python, FastAPI, Next.js, TypeScript, PostgreSQL, Redis, Docker, Nginx, MCP, OAuth 2.1.
+
+4) **[Browser-Agent](https://github.com/kota-kawa/Browser-Agent)** — *Control the web with natural language.*
    - **Overview**: A browser automation agent with a FastAPI web interface. Executes tasks via natural language instructions with real-time monitoring via noVNC.
    - **Performance**: WebArena Shopping task success rate: 32.6%.
    - **Technologies**: Python, FastAPI, TypeScript, Docker.
@@ -89,7 +94,7 @@ Direct access to my currently active applications and platforms.
 ## 🗓️ Now
 - **Researching / Building**: I am developing Marmo-Core, focusing on its resource selection pipeline and execution controls.
 
-_Last updated: 2026-09-23_
+_Last updated: 2026-10-12_
 
 <details>
   <summary>日本語版（Japanese Version）</summary>
@@ -143,6 +148,7 @@ AIエージェントの社会実装を通じて、人同士のコミュニケー
 現在実際にアクセスして利用可能なサービスです。
 
 - **[ChatCore-AI](https://chatcore-ai.com/)** — *複数LLMのストリーミングとWebツールに対応した本番運用AIチャットプラットフォーム。*
+- **[relua](https://relua.net/)** — *AIエージェントがMCP経由で更新する、学生向けの求人・イベントデータベース。*
 - **[FS-QR](https://fs-qr.net/)** — *ファイル共有 & QR。*
 
 ## ⭐ 代表作
@@ -154,7 +160,11 @@ AIエージェントの社会実装を通じて、人同士のコミュニケー
    - **概要**: AIエージェント用リソースの登録・検索・選択・安全な実行を担う軽量なPythonカーネル。ポリシーによる実行制御、監査ログ、人による承認、リカバリ、CLI、OpenAI互換およびAnthropicモデルとの連携を提供。
    - **使用技術**: Python, LLM, Retrieval, Policy / Security, CLI, JSONリソース定義.
 
-3) **[Browser-Agent](https://github.com/kota-kawa/Browser-Agent)** — *自然言語でWebを操作する*
+3) **[relua](https://github.com/kota-kawa/relua)** ([Live](https://relua.net/)) — *AIエージェントがMCP経由で更新する求人・イベントデータベース*
+   - **概要**: インターン・本選考・イベントの募集情報をログインなしで横断検索できる、公開・運用中のサービス。管理画面を持たず、ChatGPT / Claudeが40個のMCPツールでデータを登録・更新。自前のOAuth 2.1認可サーバー（動的クライアント登録・PKCE）に加え、公式ページのallowlist、重複判定、冪等化、楽観ロック、監査ログによる多層防御をすべての書き込みに適用。
+   - **使用技術**: Python, FastAPI, Next.js, TypeScript, PostgreSQL, Redis, Docker, Nginx, MCP, OAuth 2.1.
+
+4) **[Browser-Agent](https://github.com/kota-kawa/Browser-Agent)** — *自然言語でWebを操作する*
    - **概要**: FastAPIベースのWebインターフェースを持つブラウザ自動操作エージェント。自然言語の指示でタスクを実行し、noVNCでリアルタイム監視が可能。
    - **性能**: WebArena Shoppingタスク成功率: 32.6%。
    - **使用技術**: Python, FastAPI, TypeScript, Docker.
@@ -182,6 +192,6 @@ AIエージェントの社会実装を通じて、人同士のコミュニケー
 ## 🗓️ 現在
 - **研究・開発**: 現在は、Marmo-Coreのリソース選択パイプラインと実行制御の開発を進めています。
 
-_Last updated: 2026-09-23_
+_Last updated: 2026-10-12_
 
 </details>
